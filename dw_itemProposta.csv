@@ -1,0 +1,687 @@
+id;Classificação fiscal do item da proposta;Cliente da proposta;Codigo da proposta;Código da solicitação de cotação do item da proposta;Código do produto do item da proposta;Código do produto no cliente;Contato da proposta;Contrato do item da proposta;Data de validade da proposta;Data do início do relacionamento com a pessoa;Data/hora da abertura da proposta;Data/hora do envio da proposta para o cliente;Descrição do produto do item da proposta;Empresa da proposta;ICMS do item da proposta;IPI do item da proposta;ISS do item da proposta;Item da proposta;Item de solicitação de cotação do item da proposta;Nome do representante da proposta;Nome do vendedor da proposta;Observações da proposta;Observações do item da proposta;Prazo de entrega do item da proposta;Preço unitário do item da proposta;Quantidade do item da proposta;Status do item da proposta;Tipo de frete da proposta
+292;;MARDAM INDUSTRIA;180;;A643PL32;;Fablo Lopes;;29/03/2019 00:00;28/03/2018 00:00;27/02/2019 00:00;;KIT REPARO TRUE COAT SELOS;Applic Hot Melt Aplications;;;;2;;;FRANCO;;;30;663,04;2;3) Liberada aguardando envio;
+291;;MARDAM INDUSTRIA;180;;A4160PL45;;Fablo Lopes;;29/03/2019 00:00;28/03/2018 00:00;27/02/2019 00:00;;KIT DE SELOS REPARO SC2;Applic Hot Melt Aplications;;;;1;;;FRANCO;;;30;557,61;2;3) Liberada aguardando envio;
+290;;KIMBERLY -CLARK BRASIL INDUSTRIA E COMERCIO DE PRODUTOS DE HIGIENE LTDA;179;;A4308PL45;;;;29/03/2019 00:00;02/08/2018 00:00;27/02/2019 00:00;;GUILHOTINA COMPLETA-ABS;Applic Hot Melt Aplications;;;;1;;;FRANCO;"a) Prazo de entrega: passará a vigorar após o pedido de compra recebido.
+b) Deverá constar no pedido de compra o número da proposta comercial.
+c) Frete: Posto Applic - Mogi das Cruzes (FOB)
+d) Garantia: 1 ano
+e) Não destacamos os impostos por estarmos enquadrados no simples nacional
+f) Condição de pagamento: 75 DDL";;30;47.120;1;3) Liberada aguardando envio;FOB
+289;;P & G;178;;S085;;;;28/03/2019 00:00;16/10/2018 00:00;26/02/2019 00:00;27/02/2019 20:41;REFORMA DE BICOS SLOT;Applic Hot Melt Aplications;;;;4;;;FELIPE CASANOVA;;;30;2.210;1;5) Aceita pelo cliente;FOB
+288;;P & G;178;;S086;;;;28/03/2019 00:00;16/10/2018 00:00;26/02/2019 00:00;27/02/2019 20:41;SERVIÇO DE RECUPERAÇÃO EM TANQUES;Applic Hot Melt Aplications;;;;3;;;FELIPE CASANOVA;;;30;12.890;1;5) Aceita pelo cliente;FOB
+287;;P & G;178;;A4016PL45;;;;28/03/2019 00:00;16/10/2018 00:00;26/02/2019 00:00;27/02/2019 20:41;KIT REPARO ITW;Applic Hot Melt Aplications;;;;2;;;FELIPE CASANOVA;;;45;2.085;5;5) Aceita pelo cliente;FOB
+286;;P & G;178;;S085;;;;28/03/2019 00:00;16/10/2018 00:00;26/02/2019 00:00;27/02/2019 20:41;REFORMA DE BICOS SLOT;Applic Hot Melt Aplications;;;;1;;;FELIPE CASANOVA;;;30;1.830;1;5) Aceita pelo cliente;FOB
+285;;P & G;177;;A4038PL05;;;;28/03/2019 00:00;16/10/2018 00:00;26/02/2019 00:00;28/02/2019 09:22;BASE TROCA RÁPIDA;Applic Hot Melt Aplications;;;;2;;;FELIPE CASANOVA;;;30;2.050;2;4) Enviada para cliente;
+284;;P & G;177;;A318PL32;;;;28/03/2019 00:00;16/10/2018 00:00;26/02/2019 00:00;28/02/2019 09:22;BICO SLOT VECTOR;Applic Hot Melt Aplications;;;;1;;;FELIPE CASANOVA;;;30;4.450;2;5) Aceita pelo cliente;
+283;;KC CAMAÇARI;176;;A199PL32;;;;28/03/2019 00:00;14/09/2018 00:00;26/02/2019 00:00;;KIT REPARO UM 22/25/50;Applic Hot Melt Aplications;;;;1;;;FELIPE CASANOVA;;;15;512;5;3) Liberada aguardando envio;FOB
+282;;ACTIVE SENADOR CANEDO;175;;A3059PL45;;CLAUDIO DIAS;;27/03/2019 00:00;10/09/2018 00:00;25/02/2019 00:00;27/02/2019 15:05;FILTRO VB MW0.2 L104 VERSABLUE;Applic Hot Melt Aplications;;;;2;;;FRANCO;;;30;180;10;4) Enviada para cliente;FOB
+281;;ACTIVE SENADOR CANEDO;175;;A828PL32;;CLAUDIO DIAS;;27/03/2019 00:00;10/09/2018 00:00;25/02/2019 00:00;27/02/2019 15:05;CORPO MÓDULO UM25-ALUMINIO;Applic Hot Melt Aplications;;;;1;;;FRANCO;;;30;2.050;5;5) Aceita pelo cliente;FOB
+280;;SANTHER;174;;A855PL20;;;;27/03/2019 00:00;14/09/2018 00:00;25/02/2019 00:00;;BICO SUMMIT FULL-INOX 22MM;Applic Hot Melt Aplications;;;;1;;;FRANCO;;;30;1.533;10;3) Liberada aguardando envio;
+278;;SOFAPE FABRICANTES DE FILTROS LTDA;173;;DESENV.0001;;Sergio;;27/03/2019 00:00;12/04/2018 00:00;25/02/2019 00:00;;DESENVOLVIMENTO DE PRODUTOS;Applic Hot Melt Aplications;;;;1;;;FELIPE AMANCIO;;;20;4.117;1;3) Liberada aguardando envio;FOB
+277;;KC CAMAÇARI;172;;A4030PL28;;Jackson;;27/03/2019 00:00;14/09/2018 00:00;25/02/2019 00:00;25/02/2019 11:47;MANIFOLD SPEED COAT 70MM;Applic Hot Melt Aplications;;;;2;;;FELIPE CASANOVA;;;30;8.130;2;3) Liberada aguardando envio;FOB
+276;;KC CAMAÇARI;172;;A2101PL45;;Jackson;;27/03/2019 00:00;14/09/2018 00:00;25/02/2019 00:00;25/02/2019 11:47;APLICADOR SPEED COAT-01;Applic Hot Melt Aplications;;;;1;;;FELIPE CASANOVA;;;30;12.350;2;3) Liberada aguardando envio;FOB
+275;;P & G;171;;A4463PL45;;;;27/03/2019 00:00;16/10/2018 00:00;25/02/2019 00:00;25/02/2019 11:38;BICO DE SLOT CORE TO PATCH S1;Applic Hot Melt Aplications;;;;1;;;FELIPE CASANOVA;;;30;3.890;1;4) Enviada para cliente;FOB
+274;;TECNOFINK LTDA;170;;A4380PL45;;Maurélio do Nascimento;;24/03/2019 00:00;07/02/2019 00:00;22/02/2019 00:00;;PISTOLA MANUAL AD800 STD;Applic Hot Melt Aplications;;;;1;;;FELIPE AMANCIO;"a) Prazo de entrega: passará a vigorar após o pedido de compra recebido.
+b) Garantia: 365 dias";;30;8.400;1;3) Liberada aguardando envio;
+273;;NEO BRASIL;169;;A4392PL45;;;;20/03/2019 00:00;18/02/2019 00:00;18/02/2019 00:00;;MANGUEIRA TERMOELETRICA TC 20-8-PT100;Applic Hot Melt Aplications;;;;1;;;FELIPE AMANCIO;;;30;3.120;1;3) Liberada aguardando envio;
+272;;CMPC;168;;A2824PL45;;;;20/03/2019 00:00;14/09/2018 00:00;18/02/2019 00:00;;BICO SUMMIT FULL-INOX 25MM;Applic Hot Melt Aplications;;;;1;;;FRANCO;"a) Prazo de entrega: passará a vigorar após o pedido de compra recebido.
+b) Deverá constar no pedido de compra o número da proposta comercial.
+c) Frete: Posto Applic - Mogi das Cruzes (FOB)
+d) Garantia: 120 dias
+e) Não destacamos os impostos por estarmos enquadrados no simples nacional
+f) Condição de pagamento: 28 DDL";;45;1.540;10;3) Liberada aguardando envio;
+271;;KIMBERLY -CLARK BRASIL INDUSTRIA E COMERCIO DE PRODUTOS DE HIGIENE LTDA;167;;A702PL32;;Cassia;;17/03/2019 00:00;02/08/2018 00:00;15/02/2019 00:00;;O-RING 0,20 IN X 0,0735 IN VT75;Applic Hot Melt Aplications;;;;1;;;;75 DDL;;20;9,8;100;3) Liberada aguardando envio;FOB
+270;;ACTIVE SENADOR CANEDO;166;;A810PL32;;CLAUDIO DIAS;;16/03/2019 00:00;10/09/2018 00:00;14/02/2019 00:00;15/02/2019 13:45;MODULO COMPLETO UM25-ALUMINIO;Applic Hot Melt Aplications;;;;1;;;FRANCO;"a) Prazo de entrega: passará a vigorar após o pedido de compra recebido.
+b) Deverá constar no pedido de compra o número da proposta comercial.
+c) Frete: Posto Applic - Mogi das Cruzes (FOB)
+d) Garantia: 120 dias
+e) Não destacamos os impostos por estarmos enquadrados no simples nacional
+f) Condição de pagamento: 30 DDL";;25;1.947,50;2;5) Aceita pelo cliente;FOB
+269;;MARDAM INDUSTRIA;165;;A3461PL45;;;;16/03/2019 00:00;28/03/2018 00:00;14/02/2019 00:00;;"SOLENOIDE VALVE 3/2WAYS 24V/2,5W
+PN 460246";Applic Hot Melt Aplications;;;;1;;;FRANCO;"a) Prazo de entrega: passará a vigorar após o pedido de compra recebido.
+b) Deverá constar no pedido de compra o número da proposta comercial.
+c) Frete: Posto Applic - Mogi das Cruzes (FOB)
+d) Garantia: 120 dias
+e) Não destacamos os impostos por estarmos enquadrados no simples nacional
+f) Condição de pagamento: 30/60 DDL";;25;1.320;4;3) Liberada aguardando envio;
+268;;CBAT CENTRAL BRASILEIRA DE ASSISTÊNCIA TÉCNICA LTDA-EPP;164;;A4173PL45;;;;16/03/2019 00:00;14/02/2019 00:00;14/02/2019 00:00;;CORDSET NI 120;Applic Hot Melt Aplications;;;;3;;;FELIPE AMANCIO;"a) Prazo de entrega: passará a vigorar após o pedido de compra recebido.
+b) Deverá constar no pedido de compra o número da proposta comercial.
+c) Frete: Posto Applic - Mogi das Cruzes";;30;530;1;3) Liberada aguardando envio;
+267;;CBAT CENTRAL BRASILEIRA DE ASSISTÊNCIA TÉCNICA LTDA-EPP;164;;A4438PL38;;;;16/03/2019 00:00;14/02/2019 00:00;14/02/2019 00:00;;BICO CF SEM FURO;Applic Hot Melt Aplications;;;;2;;;FELIPE AMANCIO;"a) Prazo de entrega: passará a vigorar após o pedido de compra recebido.
+b) Deverá constar no pedido de compra o número da proposta comercial.
+c) Frete: Posto Applic - Mogi das Cruzes";;30;148,5;10;3) Liberada aguardando envio;
+266;;CBAT CENTRAL BRASILEIRA DE ASSISTÊNCIA TÉCNICA LTDA-EPP;164;;A4439PL38;;;;16/03/2019 00:00;14/02/2019 00:00;14/02/2019 00:00;;BICO SATURNO SEM FURO;Applic Hot Melt Aplications;;;;1;;;FELIPE AMANCIO;"a) Prazo de entrega: passará a vigorar após o pedido de compra recebido.
+b) Deverá constar no pedido de compra o número da proposta comercial.
+c) Frete: Posto Applic - Mogi das Cruzes";;30;165,86;20;3) Liberada aguardando envio;
+264;;RADNAQ;161;;DESENV.0001;;;;16/03/2019 00:00;14/09/2018 00:00;14/02/2019 00:00;;DESENVOLVIMENTO DE PRODUTOS;Applic Hot Melt Aplications;;;;11;;;FELIPE AMANCIO;"Condição de pagamento: 50% no ato da aprovação da proposta; 30/60 após o recebimento do equipamento.
+";;90;12.600;1;3) Liberada aguardando envio;FOB
+263;;RADNAQ;161;;DESENV.0001;;;;16/03/2019 00:00;14/09/2018 00:00;14/02/2019 00:00;;DESENVOLVIMENTO DE PRODUTOS;Applic Hot Melt Aplications;;;;10;;;FELIPE AMANCIO;"Condição de pagamento: 50% no ato da aprovação da proposta; 30/60 após o recebimento do equipamento.
+";;90;30.400;1;3) Liberada aguardando envio;FOB
+262;;RADNAQ;161;;DESENV.0001;;;;16/03/2019 00:00;14/09/2018 00:00;14/02/2019 00:00;;DESENVOLVIMENTO DE PRODUTOS;Applic Hot Melt Aplications;;;;9;;;FELIPE AMANCIO;"Condição de pagamento: 50% no ato da aprovação da proposta; 30/60 após o recebimento do equipamento.
+";;90;34.000;1;3) Liberada aguardando envio;FOB
+261;;RADNAQ;161;;DESENV.0001;;;;16/03/2019 00:00;14/09/2018 00:00;14/02/2019 00:00;;DESENVOLVIMENTO DE PRODUTOS;Applic Hot Melt Aplications;;;;8;;;FELIPE AMANCIO;"Condição de pagamento: 50% no ato da aprovação da proposta; 30/60 após o recebimento do equipamento.
+";;90;114.500;1;3) Liberada aguardando envio;FOB
+260;;RADNAQ;161;;DESENV.0001;;;;16/03/2019 00:00;14/09/2018 00:00;14/02/2019 00:00;;DESENVOLVIMENTO DE PRODUTOS;Applic Hot Melt Aplications;;;;7;;;FELIPE AMANCIO;"Condição de pagamento: 50% no ato da aprovação da proposta; 30/60 após o recebimento do equipamento.
+";;90;102.000;1;3) Liberada aguardando envio;FOB
+259;;RADNAQ;161;;DESENV.0001;;;;16/03/2019 00:00;14/09/2018 00:00;14/02/2019 00:00;;DESENVOLVIMENTO DE PRODUTOS;Applic Hot Melt Aplications;;;;6;;;FELIPE AMANCIO;"Condição de pagamento: 50% no ato da aprovação da proposta; 30/60 após o recebimento do equipamento.
+";;90;57.000;1;3) Liberada aguardando envio;FOB
+258;;RADNAQ;161;;DESENV.0001;;;;16/03/2019 00:00;14/09/2018 00:00;14/02/2019 00:00;;DESENVOLVIMENTO DE PRODUTOS;Applic Hot Melt Aplications;;;;5;;;FELIPE AMANCIO;"Condição de pagamento: 50% no ato da aprovação da proposta; 30/60 após o recebimento do equipamento.
+";;90;88.800;1;3) Liberada aguardando envio;FOB
+257;;RADNAQ;161;;DESENV.0001;;;;16/03/2019 00:00;14/09/2018 00:00;14/02/2019 00:00;;DESENVOLVIMENTO DE PRODUTOS;Applic Hot Melt Aplications;;;;4;;;FELIPE AMANCIO;"Condição de pagamento: 50% no ato da aprovação da proposta; 30/60 após o recebimento do equipamento.
+";;90;70.700;1;3) Liberada aguardando envio;FOB
+256;;RADNAQ;161;;DESENV.0001;;;;16/03/2019 00:00;14/09/2018 00:00;14/02/2019 00:00;;DESENVOLVIMENTO DE PRODUTOS;Applic Hot Melt Aplications;;;;3;;;FELIPE AMANCIO;"Condição de pagamento: 50% no ato da aprovação da proposta; 30/60 após o recebimento do equipamento.
+";;90;77.750;1;3) Liberada aguardando envio;FOB
+255;;KIMBERLY -CLARK BRASIL INDUSTRIA E COMERCIO DE PRODUTOS DE HIGIENE LTDA;163;;A4031PL47;;;;16/03/2019 00:00;02/08/2018 00:00;14/02/2019 00:00;;TAMPA DE ALUMÍNIO;Applic Hot Melt Aplications;;;;1;;;FRANCO;"a) Prazo de entrega: passará a vigorar após o pedido de compra recebido.
+b) Deverá constar no pedido de compra o número da proposta comercial.
+c) Frete: Posto Applic - Mogi das Cruzes (FOB)
+d) Garantia: 120 dias
+e) Não destacamos os impostos por estarmos enquadrados no simples nacional
+f) Condição de pagamento: 75 DDL
+";;20;690;2;3) Liberada aguardando envio;
+254;;KIMBERLY -CLARK BRASIL INDUSTRIA E COMERCIO DE PRODUTOS DE HIGIENE LTDA;162;;SERV.080;;;;16/03/2019 00:00;02/08/2018 00:00;14/02/2019 00:00;;SERVICO DE REFORMA DE BICO SPRAY;Applic Hot Melt Aplications;;;;1;;;FRANCO;"a) Prazo de entrega: passará a vigorar após o pedido de compra recebido.
+b) Deverá constar no pedido de compra o número da proposta comercial.
+c) Frete: Posto Applic - Mogi das Cruzes (FOB)
+d) Garantia: 120 dias
+e) Não destacamos os impostos por estarmos enquadrados no simples nacional
+f) Condição de pagamento: 75 dias";;25;1.720;8;3) Liberada aguardando envio;
+253;;RADNAQ;161;;DESENV.0001;;;;16/03/2019 00:00;14/09/2018 00:00;14/02/2019 00:00;;DESENVOLVIMENTO DE PRODUTOS;Applic Hot Melt Aplications;;;;2;;;FELIPE AMANCIO;"Condição de pagamento: 50% no ato da aprovação da proposta; 30/60 após o recebimento do equipamento.
+";;90;44.500;1;3) Liberada aguardando envio;FOB
+252;;RADNAQ;161;;DESENV.0001;;;;16/03/2019 00:00;14/09/2018 00:00;14/02/2019 00:00;;DESENVOLVIMENTO DE PRODUTOS;Applic Hot Melt Aplications;;;;1;;;FELIPE AMANCIO;"Condição de pagamento: 50% no ato da aprovação da proposta; 30/60 após o recebimento do equipamento.
+";;90;28.000;1;3) Liberada aguardando envio;FOB
+251;;SANTHER;160;;SERV.089;;Edvaldo;;14/03/2019 00:00;14/09/2018 00:00;12/02/2019 00:00;;SERVIÇO DE UPGRADE ELETRÔNICO;Applic Hot Melt Aplications;;;;1;;;FRANCO;"a) Prazo de entrega: passará a vigorar após o pedido de compra recebido.
+b) Deverá constar no pedido de compra o número da proposta comercial.
+c) Frete: Posto Applic - Mogi das Cruzes (FOB)
+d) Garantia: 120 dias
+e) Não destacamos os impostos por estarmos enquadrados no simples nacional
+f) Condição de pagamento: 60 DDL";;75;34.000;1;3) Liberada aguardando envio;
+250;;KIMBERLY -CLARK BRASIL INDUSTRIA E COMERCIO DE PRODUTOS DE HIGIENE LTDA;159;;S085;;;;14/03/2019 00:00;02/08/2018 00:00;12/02/2019 00:00;;REFORMA DE BICOS SLOT;Applic Hot Melt Aplications;;;;1;;;FRANCO;"a) Prazo de entrega: passará a vigorar após o pedido de compra recebido.
+b) Deverá constar no pedido de compra o número da proposta comercial.
+c) Frete: Posto Applic - Mogi das Cruzes (FOB)
+d) Garantia: 120 dias
+e) Não destacamos os impostos por estarmos enquadrados no simples nacional
+f) Condição de pagamento: 75 DDL";;30;1.520;1;3) Liberada aguardando envio;
+248;;KIMBERLY -CLARK BRASIL INDUSTRIA E COMERCIO DE PRODUTOS DE HIGIENE LTDA;158;;A4449PL45;;;;14/03/2019 00:00;02/08/2018 00:00;12/02/2019 00:00;;BICO SLOT BACK SHEET 100MM;Applic Hot Melt Aplications;;;;1;;;FRANCO;"a) Prazo de entrega: passará a vigorar após o pedido de compra recebido.
+b) Deverá constar no pedido de compra o número da proposta comercial.
+c) Frete: Posto Applic - Mogi das Cruzes (FOB)
+d) Garantia: 120 dias
+e) Não destacamos os impostos por estarmos enquadrados no simples nacional
+f) Condição de pagamento: 75 DDL";;30;7.720;1;3) Liberada aguardando envio;FOB
+247;;EVER GREEN;145;;A4441PL20;;;;03/03/2019 00:00;28/03/2018 00:00;01/02/2019 00:00;27/02/2019 13:39;BICO SUREWRAP PN1092330;Applic Hot Melt Aplications;;;;4;;;FRANCO;"a) Prazo de entrega: passará a vigorar após o pedido de compra recebido.
+b) Deverá constar no pedido de compra o número da proposta comercial.
+c) Frete: Posto Applic - Mogi das Cruzes (FOB)
+d) Garantia: 120 dias
+e) Não destacamos os impostos por estarmos enquadrados no simples nacional";;30;2.669;2;4) Enviada para cliente;FOB
+246;;RADNAQ;157;;DESENV.0001;;;;13/03/2019 00:00;14/09/2018 00:00;11/02/2019 00:00;;DESENVOLVIMENTO DE PRODUTOS;Applic Hot Melt Aplications;;;;4;;;FELIPE AMANCIO;;;15;22,3;16;3) Liberada aguardando envio;FOB
+245;;RADNAQ;157;;DESENV.0001;;;;13/03/2019 00:00;14/09/2018 00:00;11/02/2019 00:00;;DESENVOLVIMENTO DE PRODUTOS;Applic Hot Melt Aplications;;;;3;;;FELIPE AMANCIO;;;15;22,3;16;3) Liberada aguardando envio;FOB
+244;;RADNAQ;157;;DESENV.0001;;;;13/03/2019 00:00;14/09/2018 00:00;11/02/2019 00:00;;DESENVOLVIMENTO DE PRODUTOS;Applic Hot Melt Aplications;;;;2;;;FELIPE AMANCIO;;;15;89,9;16;3) Liberada aguardando envio;FOB
+243;;RADNAQ;157;;DESENV.0001;;;;13/03/2019 00:00;14/09/2018 00:00;11/02/2019 00:00;;DESENVOLVIMENTO DE PRODUTOS;Applic Hot Melt Aplications;;;;1;;;FELIPE AMANCIO;;;15;155;16;3) Liberada aguardando envio;FOB
+242;;KC CAMAÇARI;156;;S058;;Jackson;;13/03/2019 00:00;14/09/2018 00:00;11/02/2019 00:00;;SERVIÇO DE REFORMA DE BOMBA;Applic Hot Melt Aplications;;;;4;;;;;;30;1.860;1;3) Liberada aguardando envio;
+241;;KC CAMAÇARI;156;;S058;;Jackson;;13/03/2019 00:00;14/09/2018 00:00;11/02/2019 00:00;;SERVIÇO DE REFORMA DE BOMBA;Applic Hot Melt Aplications;;;;3;;;;;;30;2.830;1;3) Liberada aguardando envio;
+240;;KC CAMAÇARI;156;;S058;;Jackson;;13/03/2019 00:00;14/09/2018 00:00;11/02/2019 00:00;;SERVIÇO DE REFORMA DE BOMBA;Applic Hot Melt Aplications;;;;2;;;;;;30;2.830;1;3) Liberada aguardando envio;
+239;;KC CAMAÇARI;156;;S058;;Jackson;;13/03/2019 00:00;14/09/2018 00:00;11/02/2019 00:00;;SERVIÇO DE REFORMA DE BOMBA;Applic Hot Melt Aplications;;;;1;;;;;;30;1.860;5;3) Liberada aguardando envio;
+238;;TECNOFINK LTDA;155;;DESENV.0001;;Maurélio do Nascimento;;10/03/2019 00:00;07/02/2019 00:00;08/02/2019 00:00;;DESENVOLVIMENTO DE PRODUTOS;Applic Hot Melt Aplications;;;;1;;;FELIPE AMANCIO;28/45 DDL;;15;120;36;3) Liberada aguardando envio;FOB
+237;;TECNOFINK LTDA;154;;S028;;Maurélio do Nascimento;;09/03/2019 00:00;07/02/2019 00:00;07/02/2019 00:00;;SERVIÇO DE REFORMA DE MANGUEIRAS;Applic Hot Melt Aplications;;;;2;;;FELIPE AMANCIO;;;15;3.150;1;3) Liberada aguardando envio;FOB
+236;;TECNOFINK LTDA;154;;S028;;Maurélio do Nascimento;;09/03/2019 00:00;07/02/2019 00:00;07/02/2019 00:00;;SERVIÇO DE REFORMA DE MANGUEIRAS;Applic Hot Melt Aplications;;;;1;;;FELIPE AMANCIO;;;15;2.205;2;3) Liberada aguardando envio;FOB
+235;;CCM;153;;S085;;;;09/03/2019 00:00;14/09/2018 00:00;07/02/2019 00:00;;REFORMA DE BICOS SLOT;Applic Hot Melt Aplications;;;;1;;;FRANCO;"a) Prazo de entrega: passará a vigorar após o pedido de compra recebido.
+b) Deverá constar no pedido de compra o número da proposta comercial.
+c) Frete: Posto Applic - Mogi das Cruzes (FOB)
+d) Garantia: 120 dias
+e) Não destacamos os impostos por estarmos enquadrados no simples nacional
+f) Condição de pagamento: 30 DDL";;20;7.200;1;3) Liberada aguardando envio;FOB
+234;;IGOR SANTOS;152;;A3762PL45;;IGOR SANTOS;;09/03/2019 00:00;06/02/2019 00:00;07/02/2019 00:00;;VALVULA SOLENOIDE NORDSON 24V;Applic Hot Melt Aplications;;;;3;;;FELIPE AMANCIO;;;30;1.780;1;3) Liberada aguardando envio;
+233;;IGOR SANTOS;152;;A3762PL45;;IGOR SANTOS;;09/03/2019 00:00;06/02/2019 00:00;07/02/2019 00:00;;VALVULA SOLENOIDE NORDSON 24V;Applic Hot Melt Aplications;;;;2;;;FELIPE AMANCIO;;;30;1.230;1;3) Liberada aguardando envio;
+232;;IGOR SANTOS;152;;A3762PL45;;IGOR SANTOS;;09/03/2019 00:00;06/02/2019 00:00;07/02/2019 00:00;;VALVULA SOLENOIDE NORDSON 24V;Applic Hot Melt Aplications;;;;1;;;FELIPE AMANCIO;;;30;980;1;3) Liberada aguardando envio;
+231;;IGOR SANTOS;151;;A1077PL45;;IGOR SANTOS;;08/03/2019 00:00;06/02/2019 00:00;06/02/2019 00:00;;MÓDULO SPEED COAT2 - SEM VALVULA-NORGREN;Applic Hot Melt Aplications;;;;5;;;;;;30;7.000;1;3) Liberada aguardando envio;FOB
+230;;IGOR SANTOS;151;;KT - 0002;;IGOR SANTOS;;08/03/2019 00:00;06/02/2019 00:00;06/02/2019 00:00;;KIT UM50;Applic Hot Melt Aplications;;;;4;;;;;;30;520;1;3) Liberada aguardando envio;FOB
+229;;IGOR SANTOS;151;;A4433PL45;;IGOR SANTOS;;08/03/2019 00:00;06/02/2019 00:00;06/02/2019 00:00;;MÓDULO COMPLETO UM50 - INOX;Applic Hot Melt Aplications;;;;3;;;;;;30;2.810;1;3) Liberada aguardando envio;FOB
+228;;IGOR SANTOS;151;;KT - 0001;;IGOR SANTOS;;08/03/2019 00:00;06/02/2019 00:00;06/02/2019 00:00;;KIT UM25;Applic Hot Melt Aplications;;;;2;;;;;;30;520;1;3) Liberada aguardando envio;FOB
+227;;IGOR SANTOS;151;;A2384PL20;;IGOR SANTOS;;08/03/2019 00:00;06/02/2019 00:00;06/02/2019 00:00;;MODULO COMPLETO UM25-INOX;Applic Hot Melt Aplications;;;;1;;;;;;30;2.300;1;3) Liberada aguardando envio;FOB
+226;;Pessoa teste;150;;A4433PL45;;;;08/03/2019 00:00;27/11/2017 00:00;06/02/2019 00:00;;MÓDULO COMPLETO UM50 - INOX;Applic Hot Melt Aplications;;;;5;;;FELIPE AMANCIO;"IGOR SANTOS
+PESSOA FÍSICA
+31 99922 7217";;30;2.810;1;3) Liberada aguardando envio;
+225;;Pessoa teste;150;;A1077PL45;;;;08/03/2019 00:00;27/11/2017 00:00;06/02/2019 00:00;;MÓDULO SPEED COAT2 - SEM VALVULA-NORGREN;Applic Hot Melt Aplications;;;;4;;;FELIPE AMANCIO;"IGOR SANTOS
+PESSOA FÍSICA
+31 99922 7217";;30;7.000;1;3) Liberada aguardando envio;
+224;;Pessoa teste;150;;KT - 0002;;;;08/03/2019 00:00;27/11/2017 00:00;06/02/2019 00:00;;KIT UM50;Applic Hot Melt Aplications;;;;3;;;FELIPE AMANCIO;"IGOR SANTOS
+PESSOA FÍSICA
+31 99922 7217";;30;520;1;3) Liberada aguardando envio;
+223;;Pessoa teste;150;;KT - 0001;;;;08/03/2019 00:00;27/11/2017 00:00;06/02/2019 00:00;;KIT UM25;Applic Hot Melt Aplications;;;;2;;;FELIPE AMANCIO;"IGOR SANTOS
+PESSOA FÍSICA
+31 99922 7217";;30;520;1;3) Liberada aguardando envio;
+222;;Pessoa teste;150;;A2384PL20;;;;08/03/2019 00:00;27/11/2017 00:00;06/02/2019 00:00;;MODULO COMPLETO UM25-INOX;Applic Hot Melt Aplications;;;;1;;;FELIPE AMANCIO;"IGOR SANTOS
+PESSOA FÍSICA
+31 99922 7217";;30;2.300;1;3) Liberada aguardando envio;
+221;;SANTHER;149;;A1997PL46;;;;07/03/2019 00:00;14/09/2018 00:00;05/02/2019 00:00;05/02/2019 14:19;"ORING 0,301''X0,070""  VT75";Applic Hot Melt Aplications;;;;1;;;FRANCO;"a) Prazo de entrega: passará a vigorar após o pedido de compra recebido.
+b) Deverá constar no pedido de compra o número da proposta comercial.
+c) Frete: Posto Applic - Mogi das Cruzes (FOB)
+d) Garantia: 120 dias
+e) Não destacamos os impostos por estarmos enquadrados no simples nacional
+f) Condição de pagamento: 60 DDL";;20;9,2;100;4) Enviada para cliente;
+220;;KIMBERLY -CLARK BRASIL INDUSTRIA E COMERCIO DE PRODUTOS DE HIGIENE LTDA;148;;SERV.0002;;;;06/03/2019 00:00;02/08/2018 00:00;04/02/2019 00:00;04/02/2019 15:39;SERVIÇO LIMPEZA DE FILTRO;Applic Hot Melt Aplications;;;;1;;;FRANCO;"a) Prazo de entrega: passará a vigorar após o pedido de compra recebido.
+b) Deverá constar no pedido de compra o número da proposta comercial.
+c) Frete: Posto Applic - Mogi das Cruzes (FOB)
+d) Garantia: 120 dias
+e) Não destacamos os impostos por estarmos enquadrados no simples nacional
+f) Condição de pagamento: 75 DDL";;20;14,5;56;5) Aceita pelo cliente;
+219;;MARDAM INDUSTRIA;147;;S072;;Fablo Lopes;;18/02/2019 00:00;28/03/2018 00:00;04/02/2019 00:00;;SERVICO DE TEFLONAGEM DA PALHETA;Applic Hot Melt Aplications;;;;1;;;FRANCO;"a) Prazo de entrega: passará a vigorar após o pedido de compra recebido.
+b) Deverá constar no pedido de compra o número da proposta comercial.
+c) Frete: Posto Applic - Mogi das Cruzes (FOB)
+d) Garantia: 120 dias
+e) Não destacamos os impostos por estarmos enquadrados no simples nacional
+f) Condição de pagamento: 30 DDL";;20;456;2;3) Liberada aguardando envio;FOB
+218;;ACTIVE SENADOR CANEDO;146;;A200PL32;;CLAUDIO DIAS;;18/02/2019 00:00;10/09/2018 00:00;04/02/2019 00:00;07/02/2019 16:05;KIT REPARO SC2 COMPLETO;Applic Hot Melt Aplications;;;;3;;;FRANCO;"a) Prazo de entrega: passará a vigorar após o pedido de compra recebido.
+b) Deverá constar no pedido de compra o número da proposta comercial.
+c) Frete: Posto Applic - Mogi das Cruzes (FOB)
+d) Garantia: 120 dias
+e) Não destacamos os impostos por estarmos enquadrados no simples nacional
+f) Condição de pagamento: 30 DDL";;25;1.858,07;2;5) Aceita pelo cliente;FOB
+217;;EVER GREEN;145;;A1965PL12;;;;03/03/2019 00:00;28/03/2018 00:00;01/02/2019 00:00;27/02/2019 13:39;CORPO MÓDULO UM25-INOX;Applic Hot Melt Aplications;;;;3;;;FRANCO;"a) Prazo de entrega: passará a vigorar após o pedido de compra recebido.
+b) Deverá constar no pedido de compra o número da proposta comercial.
+c) Frete: Posto Applic - Mogi das Cruzes (FOB)
+d) Garantia: 120 dias
+e) Não destacamos os impostos por estarmos enquadrados no simples nacional";;30;1.176;1;4) Enviada para cliente;FOB
+216;;EVER GREEN;145;;A1159PL28;;;;03/03/2019 00:00;28/03/2018 00:00;01/02/2019 00:00;27/02/2019 13:39;CORPO UM50;Applic Hot Melt Aplications;;;;2;;;FRANCO;"a) Prazo de entrega: passará a vigorar após o pedido de compra recebido.
+b) Deverá constar no pedido de compra o número da proposta comercial.
+c) Frete: Posto Applic - Mogi das Cruzes (FOB)
+d) Garantia: 120 dias
+e) Não destacamos os impostos por estarmos enquadrados no simples nacional";;30;1.355,20;1;5) Aceita pelo cliente;FOB
+215;;EVER GREEN;145;;A199PL32;;;;03/03/2019 00:00;28/03/2018 00:00;01/02/2019 00:00;27/02/2019 13:39;KIT REPARO UM 22/25/50;Applic Hot Melt Aplications;;;;1;;;FRANCO;"a) Prazo de entrega: passará a vigorar após o pedido de compra recebido.
+b) Deverá constar no pedido de compra o número da proposta comercial.
+c) Frete: Posto Applic - Mogi das Cruzes (FOB)
+d) Garantia: 120 dias
+e) Não destacamos os impostos por estarmos enquadrados no simples nacional";;30;490;1;5) Aceita pelo cliente;FOB
+214;;EVER GREEN;144;;A828PL32;;;;03/03/2019 00:00;28/03/2018 00:00;01/02/2019 00:00;;CORPO MÓDULO UM25-ALUMINIO;Applic Hot Melt Aplications;;;;3;;;FRANCO;"a) Prazo de entrega: passará a vigorar após o pedido de compra recebido.
+b) Deverá constar no pedido de compra o número da proposta comercial.
+c) Frete: Posto Applic - Mogi das Cruzes (FOB)
+d) Garantia: 120 dias
+e) Não destacamos os impostos por estarmos enquadrados no simples nacional";;30;1.050;1;3) Liberada aguardando envio;FOB
+213;;EVER GREEN;144;;A1159PL28;;;;03/03/2019 00:00;28/03/2018 00:00;01/02/2019 00:00;;CORPO UM50;Applic Hot Melt Aplications;;;;2;;;FRANCO;"a) Prazo de entrega: passará a vigorar após o pedido de compra recebido.
+b) Deverá constar no pedido de compra o número da proposta comercial.
+c) Frete: Posto Applic - Mogi das Cruzes (FOB)
+d) Garantia: 120 dias
+e) Não destacamos os impostos por estarmos enquadrados no simples nacional";;30;1.210;1;3) Liberada aguardando envio;FOB
+212;;EVER GREEN;144;;A199PL32;;;;03/03/2019 00:00;28/03/2018 00:00;01/02/2019 00:00;;KIT REPARO UM 22/25/50;Applic Hot Melt Aplications;;;;1;;;FRANCO;"a) Prazo de entrega: passará a vigorar após o pedido de compra recebido.
+b) Deverá constar no pedido de compra o número da proposta comercial.
+c) Frete: Posto Applic - Mogi das Cruzes (FOB)
+d) Garantia: 120 dias
+e) Não destacamos os impostos por estarmos enquadrados no simples nacional";;30;490;1;3) Liberada aguardando envio;FOB
+211;;MARDAM INDUSTRIA;143;;S058;;Fablo Lopes;;01/03/2019 00:00;28/03/2018 00:00;30/01/2019 00:00;;SERVIÇO DE REFORMA DE BOMBA;Applic Hot Melt Aplications;;;;1;;;FRANCO;"a) Prazo de entrega: passará a vigorar após o pedido de compra recebido.
+b) Deverá constar no pedido de compra o número da proposta comercial.
+c) Frete: Posto Applic - Mogi das Cruzes (FOB)
+d) Garantia: 120 dias
+e) Não destacamos os impostos por estarmos enquadrados no simples nacional
+f) Condição de pagamento: 30/45/60 DDL";;20;2.880;1;3) Liberada aguardando envio;
+210;;P & G;142;;A193PL32;;;;28/02/2019 00:00;16/10/2018 00:00;29/01/2019 00:00;;MÓDULO TC;Applic Hot Melt Aplications;;;;1;;;;;;30;8.310;1;3) Liberada aguardando envio;
+209;;P & G;141;;S085;;;;18/01/2019 00:00;16/10/2018 00:00;29/01/2019 00:00;;REFORMA DE BICOS SLOT;Applic Hot Melt Aplications;;;;1;;;;Prazo de pagamento 120 DDL;;30;2.088;1;3) Liberada aguardando envio;FOB
+208;;MARDAM INDUSTRIA;140;;SERV.082;;Fablo Lopes;;28/02/2019 00:00;28/03/2018 00:00;29/01/2019 00:00;;REFORMA DE APLICADOR SPRAY;Applic Hot Melt Aplications;;;;1;;;FRANCO;"a) Prazo de entrega: passará a vigorar após o pedido de compra recebido.
+b) Deverá constar no pedido de compra o número da proposta comercial.
+c) Frete: Posto Applic - Mogi das Cruzes (FOB)
+d) Garantia: 120 dias
+e) Não destacamos os impostos por estarmos enquadrados no simples nacional
+f) Condição de pagamento: 30 DDL";;30;830;1;3) Liberada aguardando envio;
+207;;KC CAMAÇARI;139;;A2098PL45;;Jackson;;27/02/2019 00:00;14/09/2018 00:00;28/01/2019 00:00;;APLICADOR UNIVERSAL 8 MÓDULOS COMPLETO PT100;Applic Hot Melt Aplications;;;;1;;;;;;30;34.120;1;3) Liberada aguardando envio;
+206;;CMPC;138;;A200PL32;;;;24/02/2019 00:00;14/09/2018 00:00;25/01/2019 00:00;;KIT REPARO SC2 COMPLETO;Applic Hot Melt Aplications;;;;2;;;FRANCO;"a) Prazo de entrega: passará a vigorar após o pedido de compra recebido.
+b) Deverá constar no pedido de compra o número da proposta comercial.
+c) Frete: Posto Applic - Mogi das Cruzes (FOB)
+d) Garantia: 120 dias
+e) Não destacamos os impostos por estarmos enquadrados no simples nacional
+f) Condição de pagamento: 28 DDL";;30;2.390;1;3) Liberada aguardando envio;
+205;;CMPC;138;;A1077PL45;;;;24/02/2019 00:00;14/09/2018 00:00;25/01/2019 00:00;;MÓDULO SPEED COAT2 - SEM VALVULA-NORGREN;Applic Hot Melt Aplications;;;;1;;;FRANCO;"a) Prazo de entrega: passará a vigorar após o pedido de compra recebido.
+b) Deverá constar no pedido de compra o número da proposta comercial.
+c) Frete: Posto Applic - Mogi das Cruzes (FOB)
+d) Garantia: 120 dias
+e) Não destacamos os impostos por estarmos enquadrados no simples nacional
+f) Condição de pagamento: 28 DDL";;30;8.012;1;3) Liberada aguardando envio;
+204;;MARDAM INDUSTRIA;137;;S058;;;;23/02/2019 00:00;28/03/2018 00:00;24/01/2019 00:00;28/01/2019 17:21;SERVIÇO DE REFORMA DE BOMBA;Applic Hot Melt Aplications;;;;1;;;FRANCO;"a) Prazo de entrega: passará a vigorar após o pedido de compra recebido.
+b) Deverá constar no pedido de compra o número da proposta comercial.
+c) Frete: Posto Applic - Mogi das Cruzes (FOB)
+d) Garantia: 120 dias
+e) Não destacamos os impostos por estarmos enquadrados no simples nacional
+f) Condições de pagamento: 30 DDL";;20;2.350;1;5) Aceita pelo cliente;FOB
+203;;CMPC;136;;S028;;;;22/02/2019 00:00;14/09/2018 00:00;23/01/2019 00:00;26/02/2019 10:15;SERVIÇO DE REFORMA DE MANGUEIRAS;Applic Hot Melt Aplications;;;;2;;;FRANCO;"a) Prazo de entrega: passará a vigorar após o pedido de compra recebido.
+b) Deverá constar no pedido de compra o número da proposta comercial.
+c) Frete: Posto Applic - Mogi das Cruzes (FOB)
+d) Garantia: 120 dias
+e) Não destacamos os impostos por estarmos enquadrados no simples nacional
+f) Condição de pagamento: 30 DDL";;30;1.140;1;5) Aceita pelo cliente;FOB
+202;;CMPC;136;;SERV.033;;;;22/02/2019 00:00;14/09/2018 00:00;23/01/2019 00:00;26/02/2019 10:15;REFORMA MECÂNICA DE COLEIRO;Applic Hot Melt Aplications;;;;1;;;FRANCO;"a) Prazo de entrega: passará a vigorar após o pedido de compra recebido.
+b) Deverá constar no pedido de compra o número da proposta comercial.
+c) Frete: Posto Applic - Mogi das Cruzes (FOB)
+d) Garantia: 120 dias
+e) Não destacamos os impostos por estarmos enquadrados no simples nacional
+f) Condição de pagamento: 30 DDL";;30;4.830;1;5) Aceita pelo cliente;FOB
+201;;KIMBERLY -CLARK BRASIL INDUSTRIA E COMERCIO DE PRODUTOS DE HIGIENE LTDA;135;;SERV.080;;;;15/02/2019 00:00;02/08/2018 00:00;16/01/2019 00:00;;SERVICO DE REFORMA DE BICO SPRAY;Applic Hot Melt Aplications;;;;2;;;;"a) Prazo de entrega: passará a vigorar após o pedido de compra recebido.
+b) Deverá constar no pedido de compra o número da proposta comercial.
+c) Frete: Posto Applic - Mogi das Cruzes (FOB)
+d) Garantia: 120 dias
+e) Não destacamos os impostos por estarmos enquadrados no simples nacional";;30;810;5;3) Liberada aguardando envio;FOB
+200;;MARDAM INDUSTRIA;134;;A4244PL05;;Fablo Lopes;;20/02/2019 00:00;28/03/2018 00:00;21/01/2019 00:00;;BICO SLOT SPEED COAT COMPLETO;Applic Hot Melt Aplications;;;;1;;;FRANCO;"a) Prazo de entrega: passará a vigorar após o pedido de compra recebido.
+b) Deverá constar no pedido de compra o número da proposta comercial.
+c) Frete: Posto Applic - Mogi das Cruzes (FOB)
+d) Garantia: 120 dias
+e) Não destacamos os impostos por estarmos enquadrados no simples nacional
+f) Condição de pagamento: 30 DDL";;30;8.210;1;3) Liberada aguardando envio;
+199;;Adler Pelzer Da Bahia Ltda.;133;;S028;;;;17/02/2019 00:00;18/01/2019 00:00;18/01/2019 00:00;;SERVIÇO DE REFORMA DE MANGUEIRAS;Applic Hot Melt Aplications;;;;2;;;FRANCO;"a) Prazo de entrega: passará a vigorar após o pedido de compra recebido.
+b) Deverá constar no pedido de compra o número da proposta comercial.
+c) Frete: Posto Applic - Mogi das Cruzes
+d) Garantia: 120 dias";;15;552;1;3) Liberada aguardando envio;
+198;;Adler Pelzer Da Bahia Ltda.;133;;S028;;;;17/02/2019 00:00;18/01/2019 00:00;18/01/2019 00:00;;SERVIÇO DE REFORMA DE MANGUEIRAS;Applic Hot Melt Aplications;;;;1;;;FRANCO;"a) Prazo de entrega: passará a vigorar após o pedido de compra recebido.
+b) Deverá constar no pedido de compra o número da proposta comercial.
+c) Frete: Posto Applic - Mogi das Cruzes
+d) Garantia: 120 dias";;15;1.132;1;3) Liberada aguardando envio;
+197;;KC CAMAÇARI;132;;A4418PL20;;Jackson;;16/02/2019 00:00;14/09/2018 00:00;17/01/2019 00:00;07/02/2019 08:42;BICO SMART COAT UM-25 CENTRALIZADO 2 VIAS + BEAD ESQUERDO;Applic Hot Melt Aplications;;;;2;;;;;Distancia entre elásticos de 5mm;30;2.050;2;5) Aceita pelo cliente;
+196;;KC CAMAÇARI;132;;A4417PL20;;Jackson;;16/02/2019 00:00;14/09/2018 00:00;17/01/2019 00:00;07/02/2019 08:42;BICO SMART COAT UM-25 CENTRALIZADO 2 VIAS + BEAD DIREITO;Applic Hot Melt Aplications;;;;1;;;;;Bico com distancia de 5mm entre os elásticos e o Bead;30;2.050;2;5) Aceita pelo cliente;
+195;;KC CAMAÇARI;129;;SERV.083;;Jackson;;15/02/2019 00:00;14/09/2018 00:00;16/01/2019 00:00;;REFORMA DE APLICADOR SLOT;Applic Hot Melt Aplications;;;;5;;;;;;30;910;3;3) Liberada aguardando envio;FOB
+194;;KC CAMAÇARI;129;;SERV.082;;Jackson;;15/02/2019 00:00;14/09/2018 00:00;16/01/2019 00:00;;REFORMA DE APLICADOR SPRAY;Applic Hot Melt Aplications;;;;4;;;;;;30;830;5;3) Liberada aguardando envio;FOB
+193;;KIMBERLY -CLARK BRASIL INDUSTRIA E COMERCIO DE PRODUTOS DE HIGIENE LTDA;131;;S085;;;;15/02/2019 00:00;02/08/2018 00:00;16/01/2019 00:00;;REFORMA DE BICOS SLOT;Applic Hot Melt Aplications;;;;4;;;;"a) Prazo de entrega: passará a vigorar após o pedido de compra recebido.
+b) Deverá constar no pedido de compra o número da proposta comercial.
+c) Frete: Posto Applic - Mogi das Cruzes (FOB)
+d) Garantia: 120 dias
+e) Não destacamos os impostos por estarmos enquadrados no simples nacional";;30;1.630;1;3) Liberada aguardando envio;FOB
+192;;KIMBERLY -CLARK BRASIL INDUSTRIA E COMERCIO DE PRODUTOS DE HIGIENE LTDA;131;;SERV.080;;;;15/02/2019 00:00;02/08/2018 00:00;16/01/2019 00:00;;SERVICO DE REFORMA DE BICO SPRAY;Applic Hot Melt Aplications;;;;3;;;;"a) Prazo de entrega: passará a vigorar após o pedido de compra recebido.
+b) Deverá constar no pedido de compra o número da proposta comercial.
+c) Frete: Posto Applic - Mogi das Cruzes (FOB)
+d) Garantia: 120 dias
+e) Não destacamos os impostos por estarmos enquadrados no simples nacional";;30;750;3;3) Liberada aguardando envio;FOB
+191;;KIMBERLY -CLARK BRASIL INDUSTRIA E COMERCIO DE PRODUTOS DE HIGIENE LTDA;131;;SERV.080;;;;15/02/2019 00:00;02/08/2018 00:00;16/01/2019 00:00;;SERVICO DE REFORMA DE BICO SPRAY;Applic Hot Melt Aplications;;;;2;;;;"a) Prazo de entrega: passará a vigorar após o pedido de compra recebido.
+b) Deverá constar no pedido de compra o número da proposta comercial.
+c) Frete: Posto Applic - Mogi das Cruzes (FOB)
+d) Garantia: 120 dias
+e) Não destacamos os impostos por estarmos enquadrados no simples nacional";;30;810;2;3) Liberada aguardando envio;FOB
+190;;KIMBERLY -CLARK BRASIL INDUSTRIA E COMERCIO DE PRODUTOS DE HIGIENE LTDA;131;;SERV.080;;;;15/02/2019 00:00;02/08/2018 00:00;16/01/2019 00:00;;SERVICO DE REFORMA DE BICO SPRAY;Applic Hot Melt Aplications;;;;1;;;;"a) Prazo de entrega: passará a vigorar após o pedido de compra recebido.
+b) Deverá constar no pedido de compra o número da proposta comercial.
+c) Frete: Posto Applic - Mogi das Cruzes (FOB)
+d) Garantia: 120 dias
+e) Não destacamos os impostos por estarmos enquadrados no simples nacional";;30;630;3;3) Liberada aguardando envio;FOB
+189;;KIMBERLY -CLARK BRASIL INDUSTRIA E COMERCIO DE PRODUTOS DE HIGIENE LTDA;130;;S028;;;;04/02/2019 00:00;02/08/2018 00:00;16/01/2019 00:00;04/02/2019 10:21;SERVIÇO DE REFORMA DE MANGUEIRAS;Applic Hot Melt Aplications;;;;3;;;FRANCO;"a) Prazo de entrega: passará a vigorar após o pedido de compra recebido.
+b) Deverá constar no pedido de compra o número da proposta comercial.
+c) Frete: Posto Applic - Mogi das Cruzes (FOB)
+d) Garantia: 120 dias
+e) Não destacamos os impostos por estarmos enquadrados no simples nacional
+f) Condição de pagamento: 75 DDL
+g) Referente a NF234949";;30;1.890;1;5) Aceita pelo cliente;FOB
+188;;KIMBERLY -CLARK BRASIL INDUSTRIA E COMERCIO DE PRODUTOS DE HIGIENE LTDA;130;;S058;;;;04/02/2019 00:00;02/08/2018 00:00;16/01/2019 00:00;04/02/2019 10:21;SERVIÇO DE REFORMA DE BOMBA;Applic Hot Melt Aplications;;;;2;;;FRANCO;"a) Prazo de entrega: passará a vigorar após o pedido de compra recebido.
+b) Deverá constar no pedido de compra o número da proposta comercial.
+c) Frete: Posto Applic - Mogi das Cruzes (FOB)
+d) Garantia: 120 dias
+e) Não destacamos os impostos por estarmos enquadrados no simples nacional
+f) Condição de pagamento: 75 DDL
+g) Referente a NF234949";;30;2.300;1;5) Aceita pelo cliente;FOB
+187;;KIMBERLY -CLARK BRASIL INDUSTRIA E COMERCIO DE PRODUTOS DE HIGIENE LTDA;130;;S058;;;;04/02/2019 00:00;02/08/2018 00:00;16/01/2019 00:00;04/02/2019 10:21;SERVIÇO DE REFORMA DE BOMBA;Applic Hot Melt Aplications;;;;1;;;FRANCO;"a) Prazo de entrega: passará a vigorar após o pedido de compra recebido.
+b) Deverá constar no pedido de compra o número da proposta comercial.
+c) Frete: Posto Applic - Mogi das Cruzes (FOB)
+d) Garantia: 120 dias
+e) Não destacamos os impostos por estarmos enquadrados no simples nacional
+f) Condição de pagamento: 75 DDL
+g) Referente a NF234949";;30;3.100;1;5) Aceita pelo cliente;FOB
+186;;KC CAMAÇARI;129;;S085;;Jackson;;15/02/2019 00:00;14/09/2018 00:00;16/01/2019 00:00;;REFORMA DE BICOS SLOT;Applic Hot Melt Aplications;;;;3;;;;;;30;930;3;3) Liberada aguardando envio;FOB
+185;;KC CAMAÇARI;129;;S058;;Jackson;;15/02/2019 00:00;14/09/2018 00:00;16/01/2019 00:00;;SERVIÇO DE REFORMA DE BOMBA;Applic Hot Melt Aplications;;;;2;;;;;;30;1.510;2;3) Liberada aguardando envio;FOB
+184;;KC CAMAÇARI;129;;S058;;Jackson;;15/02/2019 00:00;14/09/2018 00:00;16/01/2019 00:00;;SERVIÇO DE REFORMA DE BOMBA;Applic Hot Melt Aplications;;;;1;;;;;;30;1.820;2;3) Liberada aguardando envio;FOB
+183;;P & G;128;;A4416PL45;;;;15/02/2019 00:00;16/10/2018 00:00;16/01/2019 00:00;18/01/2019 10:26;BICO SLOT EAR 16MM;Applic Hot Melt Aplications;;;;1;;;;"PRAZO DE PAGAMENTO: 120 DDL
+PRAZO DE ENTREGA: 120DIAS
+O NUMERO DA PROPOSTA DEVERÁ CONSTAR NO PEDIDO DE COMPRAS
+FRETE: ENTREGUE NA P&G";;20;3.100;2;5) Aceita pelo cliente;FOB
+182;;P & G;127;;A4408PL09;;;;15/02/2019 00:00;16/10/2018 00:00;16/01/2019 00:00;28/01/2019 10:37;SHIMPLATE 67 3 0,15mm P&G;Applic Hot Melt Aplications;;;;2;;;;;;7;370;1;5) Aceita pelo cliente;FOB
+181;;P & G;127;;A4407PL09;;;;15/02/2019 00:00;16/10/2018 00:00;16/01/2019 00:00;28/01/2019 10:37;SHIMPLATE 67 1 0,15mm P&G;Applic Hot Melt Aplications;;;;1;;;;;;7;370;1;5) Aceita pelo cliente;FOB
+180;;P & G;126;;A1197PL45;;;;15/02/2019 00:00;16/10/2018 00:00;16/01/2019 00:00;;MODULO SC2 COMPLETO-FESTO;Applic Hot Melt Aplications;;;;2;;;;;;30;8.320;1;3) Liberada aguardando envio;
+179;;P & G;126;;A4166PL45;;;;15/02/2019 00:00;16/10/2018 00:00;16/01/2019 00:00;;MÓDULO SPEED COAT2 - SEM VALVULA-FESTO;Applic Hot Melt Aplications;;;;1;;;;;;30;6.230;1;3) Liberada aguardando envio;
+178;;KIMBERLY -CLARK BRASIL INDUSTRIA E COMERCIO DE PRODUTOS DE HIGIENE LTDA;125;;S028;;;;08/02/2019 00:00;02/08/2018 00:00;09/01/2019 00:00;;SERVIÇO DE REFORMA DE MANGUEIRAS;Applic Hot Melt Aplications;;;;1;;;;Relativo a Nota fiscal 233296;;30;1.890;1;3) Liberada aguardando envio;FOB
+177;;KIMBERLY CLARK - COSTA RICA;124;;A1965PL12;;DIEGO;;10/02/2019 00:00;15/10/2018 00:00;11/01/2019 00:00;;CORPO MÓDULO UM25-INOX;Applic Hot Melt Aplications;;;;1;;;;;;30;490;2;3) Liberada aguardando envio;
+176;;ASA INDUSTRIA E COMERCIO LTDA;123;;A1788PL45;;JADER;;09/02/2019 00:00;01/10/2017 00:00;10/01/2019 00:00;;MANGUEIRA DE RETORNO TERMOELETRICA 3,42 FT NI 120;Applic Hot Melt Aplications;;;;1;;;FRANCO;;;30;4.596;1;3) Liberada aguardando envio;
+175;;KIMBERLY -CLARK BRASIL INDUSTRIA E COMERCIO DE PRODUTOS DE HIGIENE LTDA;122;;S028;;;;08/02/2019 00:00;02/08/2018 00:00;09/01/2019 00:00;04/02/2019 10:36;SERVIÇO DE REFORMA DE MANGUEIRAS;Applic Hot Melt Aplications;;;;1;;;;;;30;1.890;1;5) Aceita pelo cliente;
+174;;P & G;121;;A4396PL45;;;;02/01/2019 00:00;16/10/2018 00:00;03/12/2018 00:00;;BICO SLOT EAR 13MM;Applic Hot Melt Aplications;;;;1;;;;Prazo de pagamento 120 DD Líquidos;Prazo de pagamento 120 ddl;20;3.100;1;3) Liberada aguardando envio;FOB
+173;;P & G;120;;A4400PL45;;;;02/01/2019 00:00;16/10/2018 00:00;03/12/2018 00:00;18/01/2019 10:33;BICO SLOT DO PAC M P&G;Applic Hot Melt Aplications;;;;1;;;;"PRAZO DE PAGAMENTO: 120 DDL
+PRAZO DE ENTREGA: 120DIAS
+O NUMERO DA PROPOSTA DEVERÁ CONSTAR NO PEDIDO DE COMPRAS
+FRETE: ENTREGUE NA P&G";Prazo de pagamento 120 ddl;20;3.100;1;5) Aceita pelo cliente;FOB
+172;;KC CAMAÇARI;119;;A159PL32;;Jackson;;08/02/2019 00:00;14/09/2018 00:00;09/01/2019 00:00;;14,80 X 1 FKM NERO BLACK 60 +-5 BATCH NºA17/1187/001;Applic Hot Melt Aplications;;;;1;;;;Prazo de pagamento 75 ddl;;30;12,8;80;3) Liberada aguardando envio;
+171;;P & G;118;;S071;;;;07/02/2019 00:00;16/10/2018 00:00;08/01/2019 00:00;;SERVICO DE TEFLONAGEM DO TANQUE;Applic Hot Melt Aplications;;;;1;;;;Prazo de pagamento 120 DD Líquidos;;30;11.280;1;3) Liberada aguardando envio;
+170;;KIMBERLY -CLARK BRASIL INDUSTRIA E COMERCIO DE PRODUTOS DE HIGIENE LTDA;117;;A501PL09;;Camila;;06/02/2019 00:00;02/08/2018 00:00;07/01/2019 00:00;07/01/2019 17:18;SHIMPLATE TACKDOWN RN;Applic Hot Melt Aplications;;;;1;;;;;;30;356;1;5) Aceita pelo cliente;
+169;;KIMBERLY -CLARK BRASIL INDUSTRIA E COMERCIO DE PRODUTOS DE HIGIENE LTDA;116;;A575PL09;;Camila;;06/02/2019 00:00;02/08/2018 00:00;07/01/2019 00:00;07/01/2019 17:03;SHIMPLATE TACKDOWN P;Applic Hot Melt Aplications;;;;1;;;;;;30;312;2;5) Aceita pelo cliente;
+168;;P & G;115;;A4400PL45;;;;02/01/2019 00:00;16/10/2018 00:00;03/12/2018 00:00;;BICO SLOT DO PAC M P&G;Applic Hot Melt Aplications;;;;1;;;;Prazo de pagamento 120 DD Líquidos;Prazo de pagamento 120 ddl;20;3.100;1;3) Liberada aguardando envio;FOB
+167;;P & G;114;;A4396PL45;;;;02/01/2019 00:00;16/10/2018 00:00;03/12/2018 00:00;;BICO SLOT EAR 13MM;Applic Hot Melt Aplications;;;;1;;;;Prazo de pagamento 120 DD Líquidos;Prazo de pagamento 120 ddl;20;2.680;1;3) Liberada aguardando envio;FOB
+166;;P & G;113;;A4296PL45;;;;02/01/2019 00:00;16/10/2018 00:00;03/12/2018 00:00;;BICO SLOT LV 56 178-SIZE G;Applic Hot Melt Aplications;;;;1;;;;Prazo de pagamento 120 DD Líquidos;Prazo de pagamento 120 ddl;20;4.400;1;3) Liberada aguardando envio;FOB
+165;;MARDAM INDUSTRIA;112;;A199PL32;;Fablo Lopes;;20/01/2019 00:00;28/03/2018 00:00;21/12/2018 00:00;;KIT REPARO UM 22/25/50;Applic Hot Melt Aplications;;;;1;;;FRANCO;"a) Prazo de entrega: passará a vigorar após o pedido de compra recebido.
+b) Deverá constar no pedido de compra o número da proposta comercial.
+c) Frete: Posto Applic - Mogi das Cruzes (FOB)
+d) Garantia: 120 dias
+e) Não destacamos os impostos por estarmos enquadrados no simples nacional
+f) Valor válido somente para proposta anual";Desconto válido para proposta anual;30;513;240;3) Liberada aguardando envio;
+164;;P & G;111;;A4160PL45;;;;03/01/2019 00:00;16/10/2018 00:00;04/12/2018 00:00;;KIT DE SELOS REPARO SC2;Applic Hot Melt Aplications;;;;1;;;;Prazo de pagamento 120 DDL;;30;405;1;3) Liberada aguardando envio;FOB
+163;;P & G;110;;S085;;;;18/01/2019 00:00;16/10/2018 00:00;19/12/2018 00:00;18/01/2019 10:08;REFORMA DE BICOS SLOT;Applic Hot Melt Aplications;;;;1;;;;Prazo de pagamento 120 DDL;;30;1.890;1;5) Aceita pelo cliente;
+162;;P & G;109;;S085;;;;18/01/2019 00:00;16/10/2018 00:00;19/12/2018 00:00;;REFORMA DE BICOS SLOT;Applic Hot Melt Aplications;;;;1;;;;Prazo de pagamento 120 DDL;;30;1.150;1;3) Liberada aguardando envio;
+161;;P & G;108;;S085;;;;18/01/2019 00:00;16/10/2018 00:00;19/12/2018 00:00;;REFORMA DE BICOS SLOT;Applic Hot Melt Aplications;;;;1;;;;Prazo de pagamento 120 DDL;;30;1.150;1;3) Liberada aguardando envio;
+158;;P & G;105;;S028;;;;18/01/2019 00:00;16/10/2018 00:00;19/12/2018 00:00;;SERVIÇO DE REFORMA DE MANGUEIRAS;Applic Hot Melt Aplications;;;;1;;;;Prazo de pagamento 120 DDL;;30;1.890;1;3) Liberada aguardando envio;FOB
+156;;EVER GREEN;103;;A1159PL28;;;;18/01/2019 00:00;28/03/2018 00:00;19/12/2018 00:00;;CORPO UM50;Applic Hot Melt Aplications;;;;2;;;;Atenção de Kelisson;;30;1.210;1;3) Liberada aguardando envio;
+155;;EVER GREEN;103;;A199PL32;;;;18/01/2019 00:00;28/03/2018 00:00;19/12/2018 00:00;;KIT REPARO UM 22/25/50;Applic Hot Melt Aplications;;;;1;;;;Atenção de Kelisson;;30;490;1;3) Liberada aguardando envio;
+154;;Kristal;102;;S028;;Gisele;;18/01/2019 00:00;23/10/2018 00:00;19/12/2018 00:00;19/12/2018 11:07;SERVIÇO DE REFORMA DE MANGUEIRAS;Applic Hot Melt Aplications;;;;1;;;FELIPE AMANCIO;;;30;930;1;5) Aceita pelo cliente;
+153;;SANTHER;101;;S028;;Edvaldo;;18/01/2019 00:00;14/09/2018 00:00;19/12/2018 00:00;;SERVIÇO DE REFORMA DE MANGUEIRAS;Applic Hot Melt Aplications;;;;1;;;FRANCO;;;15;2.546;1;3) Liberada aguardando envio;FOB
+152;;ACTIVE SENADOR CANEDO;100;;A810PL32;;CLAUDIO DIAS;;12/01/2019 00:00;10/09/2018 00:00;13/12/2018 00:00;18/12/2018 08:43;MODULO COMPLETO UM25-ALUMINIO;Applic Hot Melt Aplications;;;;1;;;FRANCO;"a) Prazo de entrega: passará a vigorar após o pedido de compra recebido.
+b) Deverá constar no pedido de compra o número da proposta comercial.
+c) Frete: Posto Applic - Mogi das Cruzes (FOB)
+d) Garantia: 120 dias
+e) Não destacamos os impostos por estarmos enquadrados no simples nacional
+f) Condição de pagamento: 30 DDL";;10;2.050;10;5) Aceita pelo cliente;FOB
+151;;SANTHER;99;;S085;;Edvaldo;;11/01/2019 00:00;14/09/2018 00:00;12/12/2018 00:00;;REFORMA DE BICOS SLOT;Applic Hot Melt Aplications;;;;4;;;FRANCO;"a) Prazo de entrega: passará a vigorar após o pedido de compra recebido.
+b) Deverá constar no pedido de compra o número da proposta comercial.
+c) Frete: Posto Applic - Mogi das Cruzes (FOB)
+d) Garantia: 120 dias
+e) Não destacamos os impostos por estarmos enquadrados no simples nacional
+f) Condição de pagamento: 30 DDL";;25;1.780;1;3) Liberada aguardando envio;FOB
+150;;SANTHER;99;;S085;;Edvaldo;;11/01/2019 00:00;14/09/2018 00:00;12/12/2018 00:00;;REFORMA DE BICOS SLOT;Applic Hot Melt Aplications;;;;3;;;FRANCO;"a) Prazo de entrega: passará a vigorar após o pedido de compra recebido.
+b) Deverá constar no pedido de compra o número da proposta comercial.
+c) Frete: Posto Applic - Mogi das Cruzes (FOB)
+d) Garantia: 120 dias
+e) Não destacamos os impostos por estarmos enquadrados no simples nacional
+f) Condição de pagamento: 30 DDL";;25;1.780;2;3) Liberada aguardando envio;FOB
+149;;SANTHER;99;;S085;;Edvaldo;;11/01/2019 00:00;14/09/2018 00:00;12/12/2018 00:00;;REFORMA DE BICOS SLOT;Applic Hot Melt Aplications;;;;2;;;FRANCO;"a) Prazo de entrega: passará a vigorar após o pedido de compra recebido.
+b) Deverá constar no pedido de compra o número da proposta comercial.
+c) Frete: Posto Applic - Mogi das Cruzes (FOB)
+d) Garantia: 120 dias
+e) Não destacamos os impostos por estarmos enquadrados no simples nacional
+f) Condição de pagamento: 30 DDL";;25;1.780;2;3) Liberada aguardando envio;FOB
+148;;SANTHER;99;;S085;;Edvaldo;;11/01/2019 00:00;14/09/2018 00:00;12/12/2018 00:00;;REFORMA DE BICOS SLOT;Applic Hot Melt Aplications;;;;1;;;FRANCO;"a) Prazo de entrega: passará a vigorar após o pedido de compra recebido.
+b) Deverá constar no pedido de compra o número da proposta comercial.
+c) Frete: Posto Applic - Mogi das Cruzes (FOB)
+d) Garantia: 120 dias
+e) Não destacamos os impostos por estarmos enquadrados no simples nacional
+f) Condição de pagamento: 30 DDL";;25;1.780;2;3) Liberada aguardando envio;FOB
+147;;KIMBERLY CLARK-SAN LUIS;98;SC 00011;A3220PL01;;ROMERO ENRIQUE;;06/01/2019 00:00;07/12/2018 00:00;07/12/2018 00:00;;DISTRIBUIDOR CONTINUO;Applic Hot Melt Aplications;;;;9;9;;;;;30;395;1;3) Liberada aguardando envio;FOB
+138;;MARDAM INDUSTRIA;97;;A199PL32;;Fablo Lopes;;06/01/2019 00:00;28/03/2018 00:00;07/12/2018 00:00;12/12/2018 16:40;KIT REPARO UM 22/25/50;Applic Hot Melt Aplications;;;;1;;;FRANCO;"a) Prazo de entrega: passará a vigorar após o pedido de compra recebido.
+b) Deverá constar no pedido de compra o número da proposta comercial.
+c) Frete: Posto Applic - Mogi das Cruzes (FOB)
+d) Garantia: 120 dias
+e) Não destacamos os impostos por estarmos enquadrados no simples nacional
+f) Condição de pagamento: 30/60 DDL";;2;513;10;5) Aceita pelo cliente;FOB
+137;;KIMBERLY -CLARK BRASIL INDUSTRIA E COMERCIO DE PRODUTOS DE HIGIENE LTDA;96;;SERV.0002;;;;06/01/2019 00:00;02/08/2018 00:00;07/12/2018 00:00;;SERVIÇO LIMPEZA DE FILTRO;Applic Hot Melt Aplications;;;;1;;;;;;7;14,5;75;3) Liberada aguardando envio;
+136;;BABY ROGER;95;;A1077PL45;;;;05/01/2019 00:00;16/10/2018 00:00;06/12/2018 00:00;;MÓDULO SPEED COAT2 - SEM VALVULA-NORGREN;Applic Hot Melt Aplications;;;;1;;;FRANCO;"a) Prazo de entrega: passará a vigorar após o pedido de compra recebido.
+b) Deverá constar no pedido de compra o número da proposta comercial.
+c) Frete: Posto Applic - Mogi das Cruzes (FOB)
+d) Garantia: 120 dias
+e) Não destacamos os impostos por estarmos enquadrados no simples nacional
+f) ESSA PROMOÇÃO É VÁLIDA SOMENTE ATÉ DIA 15/12/2018";;20;6.390;1;3) Liberada aguardando envio;
+135;;SLOTTER;94;;S028;;Tiago;;05/01/2019 00:00;16/10/2018 00:00;06/12/2018 00:00;11/12/2018 08:49;SERVIÇO DE REFORMA DE MANGUEIRAS;Applic Hot Melt Aplications;;;;1;;;FELIPE AMANCIO;"Mangueira equipada com pistola. Descarbonização interna através de processo químico; Avaliação de partes mecânicas e elétricas; Descarbonização de conexões; Testes de pressão interna através de bomba hidrostática; Troca da malha de proteção, se necessário; Checagem dos terminais elétricos, com substituição de danificados, se necessário; Substituição de conectores danificados, se necessário; Substituição da conexão hidráulica, se necessário; Testes finais de aquecimento; Limpeza de cabos e conectores; Limpeza e recomposição da mangueira; Filmagem; Testes finais.";;5;900;1;5) Aceita pelo cliente;FOB
+133;;MARDAM INDUSTRIA;92;;A1294PL45;;Fablo Lopes;;05/01/2019 00:00;28/03/2018 00:00;06/12/2018 00:00;;BICO SLOT BARREIRA ADULTO;Applic Hot Melt Aplications;;;;1;;;FRANCO;"a) Prazo de entrega: passará a vigorar após o pedido de compra recebido.
+b) Deverá constar no pedido de compra o número da proposta comercial.
+c) Frete: Posto Applic - Mogi das Cruzes (FOB)
+d) Garantia: 120 dias
+e) Não destacamos os impostos por estarmos enquadrados no simples nacional
+f) Condição de pagamento 30/45/60";;30;8.800;1;3) Liberada aguardando envio;FOB
+131;;MGY MANUTENCOES;90;;A4362PL10;;CESAR;;03/01/2019 00:00;04/12/2018 00:00;04/12/2018 00:00;05/12/2018 13:57;REGUA PERFILADA;Applic Hot Melt Aplications;;;;1;;;;;;30;900;4;5) Aceita pelo cliente;FOB
+129;;P & G;89;;A318PL32;;;;03/01/2019 00:00;16/10/2018 00:00;04/12/2018 00:00;;BICO SLOT VECTOR;Applic Hot Melt Aplications;;;;1;;;;Prazo de pagamento 120 DDL;;30;4.450;1;3) Liberada aguardando envio;
+128;;P & G;88;;A978PL09;;;;03/01/2019 00:00;16/10/2018 00:00;04/12/2018 00:00;;FERRAMENTAS DE REPARO SC2;Applic Hot Melt Aplications;;;;1;;;;Prazo de pagamento 120 DDL;;30;9.369;1;3) Liberada aguardando envio;
+127;;P & G;87;;A4160PL45;;;;03/01/2019 00:00;16/10/2018 00:00;04/12/2018 00:00;;KIT DE SELOS REPARO SC2;Applic Hot Melt Aplications;;;;1;;;;Prazo de pagamento 120 DDL;;30;905;1;3) Liberada aguardando envio;
+126;;P & G;86;;A200PL32;;;;03/01/2019 00:00;16/10/2018 00:00;04/12/2018 00:00;;KIT REPARO SC2 COMPLETO;Applic Hot Melt Aplications;;;;1;;;;Prazo de pagamento 120 DDL;;30;1.974;1;3) Liberada aguardando envio;
+125;;P & G;85;;A4016PL45;;;;03/01/2019 00:00;16/10/2018 00:00;04/12/2018 00:00;;KIT REPARO ITW;Applic Hot Melt Aplications;;;;1;;;;Prazo de pagamento 120 ddl;;30;1.974;1;3) Liberada aguardando envio;
+124;;P & G;84;;A2824PL45;;;;03/01/2019 00:00;16/10/2018 00:00;04/12/2018 00:00;;BICO SUMMIT FULL-INOX 25MM;Applic Hot Melt Aplications;;;;1;;;;Prazo de pagamento 120 ddl;;30;1.375;1;3) Liberada aguardando envio;FOB
+123;;KC CAMAÇARI;83;;A4033PL45;;Jackson;;22/12/2018 00:00;14/09/2018 00:00;04/12/2018 00:00;04/12/2018 15:23;APLICADOR SPEED COAT 70 MM;Applic Hot Melt Aplications;;;;1;;;;;;30;20.545,90;2;5) Aceita pelo cliente;
+122;;CMPC;82;;A4193PL12;;Andre;;03/01/2019 00:00;14/09/2018 00:00;04/12/2018 00:00;;BICO SUMMIT 1-2C-INOX 25MM;Applic Hot Melt Aplications;;;;1;;;;"a) Prazo de entrega: passará a vigorar após o pedido de compra recebido.
+b) Deverá constar no pedido de compra o número da proposta comercial.
+c) Frete: Posto Applic - Mogi das Cruzes (FOB)
+d) Garantia: 120 dias
+e) Não destacamos os impostos por estarmos enquadrados no simples nacional
+f) Condição de pagamento: 28 DDL";;15;1.540;1;3) Liberada aguardando envio;
+121;;MARDAM INDUSTRIA;81;;A3762PL45;;Fablo Lopes;;03/01/2019 00:00;28/03/2018 00:00;04/12/2018 00:00;;VALVULA SOLENOIDE NORDSON 24V;Applic Hot Melt Aplications;;;;2;;;FRANCO;"a) Prazo de entrega: passará a vigorar após o pedido de compra recebido.
+b) Deverá constar no pedido de compra o número da proposta comercial.
+c) Frete: Posto Applic - Mogi das Cruzes (FOB)
+d) Garantia: 120 dias
+e) Não destacamos os impostos por estarmos enquadrados no simples nacional
+f) Condição de pagamento: 30/45/60";;20;1.423,91;3;3) Liberada aguardando envio;FOB
+120;;MARDAM INDUSTRIA;81;;A810PL32;;Fablo Lopes;;03/01/2019 00:00;28/03/2018 00:00;04/12/2018 00:00;;MODULO COMPLETO UM25-ALUMINIO;Applic Hot Melt Aplications;;;;1;;;FRANCO;"a) Prazo de entrega: passará a vigorar após o pedido de compra recebido.
+b) Deverá constar no pedido de compra o número da proposta comercial.
+c) Frete: Posto Applic - Mogi das Cruzes (FOB)
+d) Garantia: 120 dias
+e) Não destacamos os impostos por estarmos enquadrados no simples nacional
+f) Condição de pagamento: 30/45/60";;20;2.641,30;2;3) Liberada aguardando envio;FOB
+119;;P & G;80;;A4296PL45;;;;02/01/2019 00:00;16/10/2018 00:00;03/12/2018 00:00;;BICO SLOT LV 56 178-SIZE G;Applic Hot Melt Aplications;;;;1;;;;Prazo de pagamento 120 DD Líquidos;;20;1.890;1;3) Liberada aguardando envio;
+117;;Kristal;78;;S028;;Gisele;;02/01/2019 00:00;23/10/2018 00:00;03/12/2018 00:00;03/12/2018 16:56;SERVIÇO DE REFORMA DE MANGUEIRAS;Applic Hot Melt Aplications;;;;1;;;;;;5;1.860;1;5) Aceita pelo cliente;
+116;;CMPC;77;;A828PL32;;Andre;;30/12/2018 00:00;14/09/2018 00:00;30/11/2018 00:00;;CORPO MÓDULO UM25-ALUMINIO;Applic Hot Melt Aplications;;;;2;;;FRANCO;"a) Prazo de entrega: passará a vigorar após o pedido de compra recebido.
+b) Deverá constar no pedido de compra o número da proposta comercial.
+c) Frete: Posto Applic - Mogi das Cruzes (FOB)
+d) Garantia: 120 dias
+e) Não destacamos os impostos por estarmos enquadrados no simples nacional
+f) Forma de pagamento: 30 dias
+g) As condições dessa cotação estão condicionadas a uma primeira aquisição de 20 kits reparo
+h) A ideia é retirarmos os módulos a serem reparados e fazermos o serviço sem custos";Corpos sem custos para suprir a fábrica enquanto reparamos os danificados;30;0,01;10;3) Liberada aguardando envio;FOB
+115;;CMPC;77;;A199PL32;;Andre;;30/12/2018 00:00;14/09/2018 00:00;30/11/2018 00:00;;KIT REPARO UM 22/25/50;Applic Hot Melt Aplications;;;;1;;;FRANCO;"a) Prazo de entrega: passará a vigorar após o pedido de compra recebido.
+b) Deverá constar no pedido de compra o número da proposta comercial.
+c) Frete: Posto Applic - Mogi das Cruzes (FOB)
+d) Garantia: 120 dias
+e) Não destacamos os impostos por estarmos enquadrados no simples nacional
+f) Forma de pagamento: 30 dias
+g) As condições dessa cotação estão condicionadas a uma primeira aquisição de 20 kits reparo
+h) A ideia é retirarmos os módulos a serem reparados e fazermos o serviço sem custos";Faremos o serviço de troca de reparo e cobraremos apenas o reparo;2;505;20;3) Liberada aguardando envio;FOB
+114;;CCM;76;;A161PL32;;Erica Miranda;;29/12/2018 00:00;14/09/2018 00:00;29/11/2018 00:00;29/11/2018 18:17;25,12 X 1,78 FKM NERO BLACK 70 +-5 BATCH NºA17/1187/003;Applic Hot Melt Aplications;;;;1;;;FRANCO;"a) Prazo de entrega: passará a vigorar após o pedido de compra recebido.
+b) Deverá constar no pedido de compra o número da proposta comercial.
+c) Frete: Posto Applic - Mogi das Cruzes (FOB)
+d) Garantia: 120 dias
+e) Não destacamos os impostos por estarmos enquadrados no simples nacional";;1;9,12;100;5) Aceita pelo cliente;
+113;;ACTIVE SENADOR CANEDO;75;;A175PL45;;CLAUDIO DIAS;;29/12/2018 00:00;10/09/2018 00:00;29/11/2018 00:00;29/11/2018 17:26;CONJUNTO ORING E CONEXÃO VÁLVULA UA MACHO;Applic Hot Melt Aplications;;;;2;;;FRANCO;"a) Prazo de entrega: passará a vigorar após o pedido de compra recebido.
+b) Deverá constar no pedido de compra o número da proposta comercial.
+c) Frete: Posto Applic - Mogi das Cruzes (FOB)
+d) Garantia: 120 dias
+e) Não destacamos os impostos por estarmos enquadrados no simples nacional";;1;62,2;4;5) Aceita pelo cliente;FOB
+112;;ACTIVE SENADOR CANEDO;75;;A1077PL45;;CLAUDIO DIAS;;29/12/2018 00:00;10/09/2018 00:00;29/11/2018 00:00;29/11/2018 17:26;MÓDULO SPEED COAT2 - SEM VALVULA-NORGREN;Applic Hot Melt Aplications;;;;1;;;FRANCO;"a) Prazo de entrega: passará a vigorar após o pedido de compra recebido.
+b) Deverá constar no pedido de compra o número da proposta comercial.
+c) Frete: Posto Applic - Mogi das Cruzes (FOB)
+d) Garantia: 120 dias
+e) Não destacamos os impostos por estarmos enquadrados no simples nacional";;1;5.500;1;5) Aceita pelo cliente;FOB
+111;;Kristal;74;;S028;;Gisele;;29/12/2018 00:00;23/10/2018 00:00;29/11/2018 00:00;;SERVIÇO DE REFORMA DE MANGUEIRAS;Applic Hot Melt Aplications;;;;1;;;FELIPE AMANCIO;"Descarbonização interna através de processo químico; Avaliação de partes mecânicas e elétricas; Descarbonização de conexões; Testes de pressão interna através de bomba hidrostática; Troca da malha de proteção, se necessário; Checagem dos terminais elétricos, com substituição de danificados, se necessário; Substituição de conectores danificados, se necessário; Substituição da conexão hidráulica; Testes finais de aquecimento; Limpeza de cabos e conectores; Limpeza e recomposição da mangueira; Filmagem; Testes finais. 
+
+Observações:
+a) Prazo de entre: passará a vigorar após o pedido de compra recebido.
+b) Deverá constar no pedido de compra o número da proposta comercial.
+c) Frete: Posto Applic - Mogi das Cruzes
+d) Garantia: 120 dias
+";;5;930;1;3) Liberada aguardando envio;FOB
+110;;ACTIVE SENADOR CANEDO;73;;A4166PL45;;CLAUDIO DIAS;;29/12/2018 00:00;10/09/2018 00:00;29/11/2018 00:00;29/11/2018 12:10;MÓDULO SPEED COAT2 - SEM VALVULA-FESTO;Applic Hot Melt Aplications;;;;1;;;FRANCO;;;30;6.198,30;3;5) Aceita pelo cliente;
+109;;SANTHER;72;;S085;;Edvaldo;;29/12/2018 00:00;14/09/2018 00:00;29/11/2018 00:00;;REFORMA DE BICOS SLOT;Applic Hot Melt Aplications;;;;8;;;FRANCO;"a) Prazo de entrega: passará a vigorar após o pedido de compra recebido.
+b) Deverá constar no pedido de compra o número da proposta comercial.
+c) Frete: Posto Applic - Mogi das Cruzes (FOB)
+d) Garantia: 120 dias
+e) Não destacamos os impostos por estarmos enquadrados no simples nacional";;30;2.136;1;3) Liberada aguardando envio;
+108;;SANTHER;72;;S085;;Edvaldo;;29/12/2018 00:00;14/09/2018 00:00;29/11/2018 00:00;;REFORMA DE BICOS SLOT;Applic Hot Melt Aplications;;;;7;;;FRANCO;"a) Prazo de entrega: passará a vigorar após o pedido de compra recebido.
+b) Deverá constar no pedido de compra o número da proposta comercial.
+c) Frete: Posto Applic - Mogi das Cruzes (FOB)
+d) Garantia: 120 dias
+e) Não destacamos os impostos por estarmos enquadrados no simples nacional";;30;2.136;1;3) Liberada aguardando envio;
+107;;SANTHER;72;;S085;;Edvaldo;;29/12/2018 00:00;14/09/2018 00:00;29/11/2018 00:00;;REFORMA DE BICOS SLOT;Applic Hot Melt Aplications;;;;6;;;FRANCO;"a) Prazo de entrega: passará a vigorar após o pedido de compra recebido.
+b) Deverá constar no pedido de compra o número da proposta comercial.
+c) Frete: Posto Applic - Mogi das Cruzes (FOB)
+d) Garantia: 120 dias
+e) Não destacamos os impostos por estarmos enquadrados no simples nacional";;30;1.780;1;3) Liberada aguardando envio;
+106;;SANTHER;72;;S085;;Edvaldo;;29/12/2018 00:00;14/09/2018 00:00;29/11/2018 00:00;;REFORMA DE BICOS SLOT;Applic Hot Melt Aplications;;;;5;;;FRANCO;"a) Prazo de entrega: passará a vigorar após o pedido de compra recebido.
+b) Deverá constar no pedido de compra o número da proposta comercial.
+c) Frete: Posto Applic - Mogi das Cruzes (FOB)
+d) Garantia: 120 dias
+e) Não destacamos os impostos por estarmos enquadrados no simples nacional";;30;1.780;1;3) Liberada aguardando envio;
+105;;SANTHER;72;;S085;;Edvaldo;;29/12/2018 00:00;14/09/2018 00:00;29/11/2018 00:00;;REFORMA DE BICOS SLOT;Applic Hot Melt Aplications;;;;4;;;FRANCO;"a) Prazo de entrega: passará a vigorar após o pedido de compra recebido.
+b) Deverá constar no pedido de compra o número da proposta comercial.
+c) Frete: Posto Applic - Mogi das Cruzes (FOB)
+d) Garantia: 120 dias
+e) Não destacamos os impostos por estarmos enquadrados no simples nacional";;30;1.780;1;3) Liberada aguardando envio;
+104;;SANTHER;72;;S085;;Edvaldo;;29/12/2018 00:00;14/09/2018 00:00;29/11/2018 00:00;;REFORMA DE BICOS SLOT;Applic Hot Melt Aplications;;;;3;;;FRANCO;"a) Prazo de entrega: passará a vigorar após o pedido de compra recebido.
+b) Deverá constar no pedido de compra o número da proposta comercial.
+c) Frete: Posto Applic - Mogi das Cruzes (FOB)
+d) Garantia: 120 dias
+e) Não destacamos os impostos por estarmos enquadrados no simples nacional";;30;1.780;1;3) Liberada aguardando envio;
+103;;SANTHER;72;;S085;;Edvaldo;;29/12/2018 00:00;14/09/2018 00:00;29/11/2018 00:00;;REFORMA DE BICOS SLOT;Applic Hot Melt Aplications;;;;2;;;FRANCO;"a) Prazo de entrega: passará a vigorar após o pedido de compra recebido.
+b) Deverá constar no pedido de compra o número da proposta comercial.
+c) Frete: Posto Applic - Mogi das Cruzes (FOB)
+d) Garantia: 120 dias
+e) Não destacamos os impostos por estarmos enquadrados no simples nacional";;30;2.225;1;3) Liberada aguardando envio;
+102;;SANTHER;72;;S085;;Edvaldo;;29/12/2018 00:00;14/09/2018 00:00;29/11/2018 00:00;;REFORMA DE BICOS SLOT;Applic Hot Melt Aplications;;;;1;;;FRANCO;"a) Prazo de entrega: passará a vigorar após o pedido de compra recebido.
+b) Deverá constar no pedido de compra o número da proposta comercial.
+c) Frete: Posto Applic - Mogi das Cruzes (FOB)
+d) Garantia: 120 dias
+e) Não destacamos os impostos por estarmos enquadrados no simples nacional";;30;2.225;1;3) Liberada aguardando envio;
+101;;KIMBERLY -CLARK BRASIL INDUSTRIA E COMERCIO DE PRODUTOS DE HIGIENE LTDA;71;;A200PL32;;Camila;;28/12/2018 00:00;02/08/2018 00:00;28/11/2018 00:00;28/11/2018 14:16;KIT REPARO SC2 COMPLETO;Applic Hot Melt Aplications;;;;1;;;;;SAP 46022364;30;2.080,50;15;5) Aceita pelo cliente;
+100;;KIMBERLY -CLARK BRASIL INDUSTRIA E COMERCIO DE PRODUTOS DE HIGIENE LTDA;70;;A1318PL28;;Camila;;10/12/2018 00:00;02/08/2018 00:00;28/11/2018 00:00;28/11/2018 14:11;CORPO MODULO SC2;Applic Hot Melt Aplications;;;;1;;;;;;30;1.314,01;2;5) Aceita pelo cliente;
+99;;P & G;69;;A4293PL55;;;;27/12/2018 00:00;16/10/2018 00:00;27/11/2018 00:00;;SELO DE VEDACAO MALHA DE ACO;Applic Hot Melt Aplications;;;;1;;;;;;30;294;2;3) Liberada aguardando envio;FOB
+98;;MARDAM INDUSTRIA;68;;A1446PL12;;Fablo Lopes;;27/12/2018 00:00;28/03/2018 00:00;27/11/2018 00:00;;BICO SURE WRAP 3 VIAS;Applic Hot Melt Aplications;;;;1;;;FRANCO;"a) Prazo de entrega: passará a vigorar após o pedido de compra recebido.
+b) Deverá constar no pedido de compra o número da proposta comercial.
+c) Frete: Posto Applic - Mogi das Cruzes (FOB)
+d) Garantia: 120 dias
+e) Não destacamos os impostos por estarmos enquadrados no simples nacional";;30;2.566,67;3;3) Liberada aguardando envio;
+97;;MARDAM INDUSTRIA;67;;S072;;Fablo Lopes;;27/12/2018 00:00;28/03/2018 00:00;27/11/2018 00:00;23/01/2019 16:09;SERVICO DE TEFLONAGEM DA PALHETA;Applic Hot Melt Aplications;;;;1;;;FRANCO;"a) Prazo de entrega: passará a vigorar após o pedido de compra recebido.
+b) Deverá constar no pedido de compra o número da proposta comercial.
+c) Frete: Posto Applic - Mogi das Cruzes (FOB)
+d) Garantia: 120 dias
+e) Não destacamos os impostos por estarmos enquadrados no simples nacional";;20;456;2;5) Aceita pelo cliente;FOB
+96;;ACTIVE SENADOR CANEDO;66;;A204PL32;;CLAUDIO DIAS;;26/12/2018 00:00;10/09/2018 00:00;26/11/2018 00:00;26/11/2018 16:33;TELA DO BAYONETA MAIOR;Applic Hot Melt Aplications;;;;1;;;FRANCO;;;30;863,3;3;5) Aceita pelo cliente;
+95;;ACTIVE SENADOR CANEDO;65;;A200PL32;;CLAUDIO DIAS;;26/12/2018 00:00;10/09/2018 00:00;26/11/2018 00:00;26/11/2018 11:25;KIT REPARO SC2 COMPLETO;Applic Hot Melt Aplications;;;;1;;;FRANCO;;;30;1.762,36;1;5) Aceita pelo cliente;FOB
+94;;KIMBERLY -CLARK BRASIL INDUSTRIA E COMERCIO DE PRODUTOS DE HIGIENE LTDA;64;;A211PL32;;Rafael;;26/12/2018 00:00;02/08/2018 00:00;26/11/2018 00:00;26/11/2018 10:02;ORING 28X2 VT75;Applic Hot Melt Aplications;;;;1;;;;;"Pedido de Compra : 4503478570
+Condição de Pagamento: 75 DDL
+Vencimento : 08/02/2019
+Dados Bancários: Banco Itau Agencia: 0142 C/C 05084-8";30;14,9;80;5) Aceita pelo cliente;FOB
+93;;KC CAMAÇARI;63;;A4033PL45;;Jackson;;23/12/2018 00:00;14/09/2018 00:00;23/11/2018 00:00;23/11/2018 15:10;APLICADOR SPEED COAT 70 MM;Applic Hot Melt Aplications;;;;1;;;;"Pedido de Compra : 4503454473
+Condição de Pagamento: 75DDL 
+Vencimento: 02/02/19 
+Valor R$ 39.267,62 
+Dados Bancários: Banco Itau Agencia: 0142 C/C 05084-8";;30;19.633,81;2;5) Aceita pelo cliente;
+92;;ACTIVE SENADOR CANEDO;62;;A200PL32;;CLAUDIO DIAS;;23/12/2018 00:00;10/09/2018 00:00;23/11/2018 00:00;23/11/2018 14:35;KIT REPARO SC2 COMPLETO;Applic Hot Melt Aplications;;;;1;;;FRANCO;;"Pedido de Compra : **4505456036**
+Condição de Pagamento: 30 DDL
+Vencimento : 23/12/18
+Dados Bancários: Banco Itau Agencia: 0142 C/C 05084-8";30;1.762,36;2;5) Aceita pelo cliente;
+91;;KC CAMAÇARI;61;;A4033PL45;;Jackson;;23/12/2018 00:00;14/09/2018 00:00;23/11/2018 00:00;23/11/2018 10:07;APLICADOR SPEED COAT 70 MM;Applic Hot Melt Aplications;;;;1;;;;"Pedido de Compra : 4503454473
+Condição de Pagamento: 75DDL Vencimento Valor R$ 39.267,62 
+Dados Bancários: Banco Itau Agencia: 0142 C/C 05084-8";;30;19.633,81;2;5) Aceita pelo cliente;
+90;;SANTHER;60;;S085;;Edvaldo;;22/12/2018 00:00;14/09/2018 00:00;22/11/2018 00:00;;REFORMA DE BICOS SLOT;Applic Hot Melt Aplications;;;;1;;;FRANCO;;;30;1.780;1;3) Liberada aguardando envio;
+89;;ACTIVE SENADOR CANEDO;59;;A162PL32;;CLAUDIO DIAS;;22/12/2018 00:00;10/09/2018 00:00;22/11/2018 00:00;;ORING 31X1 VT75;Applic Hot Melt Aplications;;;;2;;;FRANCO;"a) Prazo de entrega: passará a vigorar após o pedido de compra recebido.
+b) Deverá constar no pedido de compra o número da proposta comercial.
+c) Frete: Posto Applic - Mogi das Cruzes (FOB)
+d) Garantia: 120 dias
+e) Não destacamos os impostos por estarmos enquadrados no simples nacional";;5;11,11;50;3) Liberada aguardando envio;FOB
+88;;ACTIVE SENADOR CANEDO;59;;A187PL32;;CLAUDIO DIAS;;22/12/2018 00:00;10/09/2018 00:00;22/11/2018 00:00;;TAMPÃO C/ ORING 3/4;Applic Hot Melt Aplications;;;;1;;;FRANCO;"a) Prazo de entrega: passará a vigorar após o pedido de compra recebido.
+b) Deverá constar no pedido de compra o número da proposta comercial.
+c) Frete: Posto Applic - Mogi das Cruzes (FOB)
+d) Garantia: 120 dias
+e) Não destacamos os impostos por estarmos enquadrados no simples nacional";;5;51,1;12;3) Liberada aguardando envio;FOB
+87;;ASA INDUSTRIA E COMERCIO LTDA;58;;SERV.034;;RENAN;;21/12/2018 00:00;01/10/2017 00:00;21/11/2018 00:00;21/11/2018 11:03;UPGRADE ELETRÔNICO DO COLEIRO 6000;Applic Hot Melt Aplications;;;;1;;;FRANCO;"Reforma do Sistema Hidráulico;
+- Desmontagem total do Sistema;
+- Avaliação de partes mecânicas e elétricas;
+- Descarbonização de Manifoldes, filtros, válvulas e etc.;
+- Retífica de bombas hidráulicas;
+- Reteflonagem de Hoper, Grelha e Reservatório;
+- Limpeza de Gabinete Elétrico e reposicionamento de componentes
+eletro-eletrônicos;
+- Limpeza e recomposição do chassi de montagem;
+- Re-pintura total, na cor original ou a definir pelo cliente;
+- Remontagem e testes finais;
+Revisão do Housing da bomba (mancal)
+- Rolamentos e retentores
+Revisão das válvulas de segurança
+Substituição de comandos elétricos e IHM;
+- Desmontagem total do Gabinete Elétrico;
+- Avaliação de partes elétricas (reles, bornes e conectores);
+- Remoção de partes específicas Nordson (sem comercialização);
+- Instalação de Console Superior para IHM;
+- Instalação dos componentes:
+- 01 IHM TOUCH SCREEN;
+- 04 Módulos auxiliares de aquecimento (08 canais elétricos);
+- 02 Inversores de Frequência;
+- PLC COM CANAIS ANALOGICOS;
+- COMPONENTES ELETRONICOS DE MONTAGEM;
+- Pintura do Gabinete Elétrico e reposicionamento de componentes
+eletro-eletrônicos;
+- Remontagem e testes finais;
+Obs. Acompanha atualização do diagrama elétrico.";;75;62.500;2;5) Aceita pelo cliente;FOB
+85;;CCM;57;;A2147PL45;;Erica Miranda;;19/12/2018 00:00;14/09/2018 00:00;19/11/2018 00:00;;"CORDSET PT100 P/N 1068075 400w 220v ø3/8""";Applic Hot Melt Aplications;;;;5;;;FRANCO;;;30;1.980;1;3) Liberada aguardando envio;
+84;;CCM;57;;A2146PL45;;Erica Miranda;;19/12/2018 00:00;14/09/2018 00:00;19/11/2018 00:00;;"CORDSET PT100 700w 220v ø3/8"" P/N 1067913";Applic Hot Melt Aplications;;;;4;;;FRANCO;;;30;1.980;1;3) Liberada aguardando envio;
+83;;CCM;57;;A673PL32;;Erica Miranda;;19/12/2018 00:00;14/09/2018 00:00;19/11/2018 00:00;;TELA DO FILTRO APLICADOR UNIVERSAL APC1539;Applic Hot Melt Aplications;;;;3;;;FRANCO;;;30;202;5;3) Liberada aguardando envio;
+82;;CCM;57;;A375PL32;;Erica Miranda;;19/12/2018 00:00;14/09/2018 00:00;19/11/2018 00:00;;TELA DO FILTRO VB APC-1540;Applic Hot Melt Aplications;;;;2;;;FRANCO;;;30;144;20;3) Liberada aguardando envio;
+81;;CCM;57;;A673PL32;;Erica Miranda;;19/12/2018 00:00;14/09/2018 00:00;19/11/2018 00:00;;TELA DO FILTRO APLICADOR UNIVERSAL APC1539;Applic Hot Melt Aplications;;;;1;;;FRANCO;;;30;123;20;3) Liberada aguardando envio;
+80;;MARDAM INDUSTRIA;56;;A643PL32;;Fablo Lopes;;19/12/2018 00:00;28/03/2018 00:00;19/11/2018 00:00;26/11/2018 17:10;KIT REPARO TRUE COAT SELOS;Applic Hot Melt Aplications;;;;1;;;FRANCO;;;30;595;2;5) Aceita pelo cliente;
+79;;KIMBERLY -CLARK BRASIL INDUSTRIA E COMERCIO DE PRODUTOS DE HIGIENE LTDA;55;;A342PL45;;Camila;;19/12/2018 00:00;02/08/2018 00:00;19/11/2018 00:00;19/11/2018 11:13;BICO G15/G16 200-150MM;Applic Hot Melt Aplications;;;;1;;;FELIPE AMANCIO;;;30;4.320;4;5) Aceita pelo cliente;
+78;;KIMBERLY -CLARK BRASIL INDUSTRIA E COMERCIO DE PRODUTOS DE HIGIENE LTDA;54;;S028;;;;14/12/2018 00:00;02/08/2018 00:00;14/11/2018 00:00;14/11/2018 14:45;SERVIÇO DE REFORMA DE MANGUEIRAS;Applic Hot Melt Aplications;;;;2;;;;;;15;880;1;5) Aceita pelo cliente;
+77;;KIMBERLY -CLARK BRASIL INDUSTRIA E COMERCIO DE PRODUTOS DE HIGIENE LTDA;54;;S028;;;;14/12/2018 00:00;02/08/2018 00:00;14/11/2018 00:00;14/11/2018 14:45;SERVIÇO DE REFORMA DE MANGUEIRAS;Applic Hot Melt Aplications;;;;1;;;;;;15;1.430;2;5) Aceita pelo cliente;
+76;;ACTIVE SENADOR CANEDO;53;;A1077PL45;;CLAUDIO DIAS;;14/12/2018 00:00;10/09/2018 00:00;14/11/2018 00:00;14/11/2018 12:05;MÓDULO SPEED COAT2 - SEM VALVULA-NORGREN;Applic Hot Melt Aplications;;;;6;;;FRANCO;;;25;6.198,30;1;5) Aceita pelo cliente;FOB
+75;;ACTIVE SENADOR CANEDO;53;;A2493PL45;;CLAUDIO DIAS;;14/12/2018 00:00;10/09/2018 00:00;14/11/2018 00:00;14/11/2018 12:05;KIT DE REPARO DO MODULO DYNATEC;Applic Hot Melt Aplications;;;;5;;;FRANCO;;;25;1.950;1;5) Aceita pelo cliente;FOB
+74;;ACTIVE SENADOR CANEDO;53;;A200PL32;;CLAUDIO DIAS;;14/12/2018 00:00;10/09/2018 00:00;14/11/2018 00:00;14/11/2018 12:05;KIT REPARO SC2 COMPLETO;Applic Hot Melt Aplications;;;;4;;;FRANCO;;;25;1.767,36;3;5) Aceita pelo cliente;FOB
+73;;ACTIVE SENADOR CANEDO;53;;A162PL32;;CLAUDIO DIAS;;14/12/2018 00:00;10/09/2018 00:00;14/11/2018 00:00;14/11/2018 12:05;ORING 31X1 VT75;Applic Hot Melt Aplications;;;;3;;;FRANCO;;;25;10,22;50;5) Aceita pelo cliente;FOB
+72;;ACTIVE SENADOR CANEDO;53;;A161PL32;;CLAUDIO DIAS;;14/12/2018 00:00;10/09/2018 00:00;14/11/2018 00:00;14/11/2018 12:05;25,12 X 1,78 FKM NERO BLACK 70 +-5 BATCH NºA17/1187/003;Applic Hot Melt Aplications;;;;2;;;FRANCO;;;25;10,76;10;5) Aceita pelo cliente;FOB
+71;;ACTIVE SENADOR CANEDO;53;;A4270PL45;;CLAUDIO DIAS;;14/12/2018 00:00;10/09/2018 00:00;14/11/2018 00:00;14/11/2018 12:05;FILTRO 150 MALHA PN 814010;Applic Hot Melt Aplications;;;;1;;;FRANCO;;;25;299,46;10;5) Aceita pelo cliente;FOB
+70;;SANTHER;52;;A855PL20;;Edvaldo;;14/12/2018 00:00;14/09/2018 00:00;14/11/2018 00:00;;BICO SUMMIT FULL-INOX 22MM;Applic Hot Melt Aplications;;;;1;;;FRANCO;;;30;1.533;10;3) Liberada aguardando envio;FOB
+69;;SANTHER;51;;S085;;Edvaldo;;14/12/2018 00:00;14/09/2018 00:00;14/11/2018 00:00;;REFORMA DE BICOS SLOT;Applic Hot Melt Aplications;;;;1;;;FRANCO;"a) Prazo de entrega: passará a vigorar após o pedido de compra recebido.
+b) Deverá constar no pedido de compra o número da proposta comercial.
+c) Frete: Posto Applic &ndash; Mogi das Cruzes (FOB)
+d) Garantia: 120 dias
+e) Não destacamos os impostos por estarmos enquadrados no simples nacional";;30;1.780;6;3) Liberada aguardando envio;
+68;;KIMBERLY -CLARK BRASIL INDUSTRIA E COMERCIO DE PRODUTOS DE HIGIENE LTDA;50;;SERV.2000;;Camila;;14/12/2018 00:00;02/08/2018 00:00;14/11/2018 00:00;14/11/2018 10:45;MANUTENCAO EM EQUIPAMENTOS ESPECIAIS;Applic Hot Melt Aplications;;;;2;;;;;;30;3.220;1;5) Aceita pelo cliente;
+67;;KIMBERLY -CLARK BRASIL INDUSTRIA E COMERCIO DE PRODUTOS DE HIGIENE LTDA;50;;S028;;Camila;;14/12/2018 00:00;02/08/2018 00:00;14/11/2018 00:00;14/11/2018 10:45;SERVIÇO DE REFORMA DE MANGUEIRAS;Applic Hot Melt Aplications;;;;1;;;;;;30;730;4;5) Aceita pelo cliente;
+66;;KC CAMAÇARI;49;;A3136PL45;;Jackson;;14/12/2018 00:00;14/09/2018 00:00;14/11/2018 00:00;14/11/2018 09:12;MANGUEIRA 24FT NI120-08MM;Applic Hot Melt Aplications;;;;1;;;;;;30;5.280;1;5) Aceita pelo cliente;
+65;;ACTIVE SENADOR CANEDO;48;;A810PL32;;CLAUDIO DIAS;;13/12/2018 00:00;10/09/2018 00:00;13/11/2018 00:00;13/11/2018 14:50;MODULO COMPLETO UM25-ALUMINIO;Applic Hot Melt Aplications;;;;1;;;FRANCO;;;30;1.947,50;10;5) Aceita pelo cliente;
+64;;CCM;47;;A199PL32;;Erica Miranda;;13/12/2018 00:00;14/09/2018 00:00;13/11/2018 00:00;13/11/2018 13:36;KIT REPARO UM 22/25/50;Applic Hot Melt Aplications;;;;1;;;FRANCO;;;3;445;8;5) Aceita pelo cliente;
+63;;KIMBERLY -CLARK BRASIL INDUSTRIA E COMERCIO DE PRODUTOS DE HIGIENE LTDA;46;;A500PL32;;Camila;;01/12/2018 00:00;02/08/2018 00:00;01/11/2018 00:00;13/11/2018 11:16;"SHIMPLATE DO FLAP TACK #0,15MM
+BCM-M4200 126-01";Applic Hot Melt Aplications;;;;1;;;FELIPE AMANCIO;;;30;312;2;4) Enviada para cliente;FOB
+62;;KIMBERLY -CLARK BRASIL INDUSTRIA E COMERCIO DE PRODUTOS DE HIGIENE LTDA;45;;A175PL45;;Camila;;13/12/2018 00:00;02/08/2018 00:00;13/11/2018 00:00;13/11/2018 11:01;CONJUNTO ORING E CONEXÃO VÁLVULA UA MACHO;Applic Hot Melt Aplications;;;;1;;;FELIPE AMANCIO;;;30;23,47;5;5) Aceita pelo cliente;
+61;;KIMBERLY -CLARK BRASIL INDUSTRIA E COMERCIO DE PRODUTOS DE HIGIENE LTDA;44;;A138PL32;;Camila;;13/12/2018 00:00;02/08/2018 00:00;13/11/2018 00:00;13/11/2018 10:54;ANEL O´RING VITON 48X2MM;Applic Hot Melt Aplications;;;;1;;;FELIPE AMANCIO;;;30;12,6;100;5) Aceita pelo cliente;
+60;;SANTHER;43;;S028;;Edvaldo;;12/12/2018 00:00;14/09/2018 00:00;12/11/2018 00:00;13/11/2018 14:30;SERVIÇO DE REFORMA DE MANGUEIRAS;Applic Hot Melt Aplications;;;;1;;;FRANCO;;;15;1.908;1;4) Enviada para cliente;
+59;;SOFAPE FABRICANTES DE FILTROS LTDA;42;SC 00009;A1905PL45;;Leonardo;;12/12/2018 00:00;12/04/2018 00:00;12/11/2018 00:00;;SENSOR PT 100 1/4X17MM;Applic Hot Melt Aplications;;;;1;1;;FELIPE AMANCIO;;;30;616;1;3) Liberada aguardando envio;FOB
+58;;MARDAM INDUSTRIA;41;;A199PL32;;Fablo Lopes;;12/12/2018 00:00;28/03/2018 00:00;12/11/2018 00:00;20/11/2018 06:42;KIT REPARO UM 22/25/50;Applic Hot Melt Aplications;;;;1;;;FRANCO;"a) Prazo de entrega: passará a vigorar após o pedido de compra recebido.
+b) Deverá constar no pedido de compra o número da proposta comercial.
+c) Frete: Posto Applic &ndash; Mogi das Cruzes (FOB)
+d) Garantia: 120 dias
+e) Não destacamos os impostos por estarmos enquadrados no simples nacional
+d) Condição de pagamento 30/45/60";;5;472;20;5) Aceita pelo cliente;FOB
+57;;ASA INDUSTRIA E COMERCIO LTDA;40;;SERV.034;;DAYANNA;;09/12/2018 00:00;01/10/2017 00:00;09/11/2018 00:00;09/11/2018 09:34;UPGRADE ELETRÔNICO DO COLEIRO 6000;Applic Hot Melt Aplications;;;;1;;;FRANCO;;;75;62.500;2;4) Enviada para cliente;
+56;;ACTIVE SENADOR CANEDO;39;;A200PL32;;CLAUDIO DIAS;;07/12/2018 00:00;10/09/2018 00:00;07/11/2018 00:00;07/11/2018 18:15;KIT REPARO SC2 COMPLETO;Applic Hot Melt Aplications;;;;1;;;FRANCO;;;30;1.841;3;4) Enviada para cliente;FOB
+55;;ACTIVE SENADOR CANEDO;38;;A1077PL45;;CLAUDIO DIAS;;07/12/2018 00:00;10/09/2018 00:00;07/11/2018 00:00;07/11/2018 17:50;MÓDULO SPEED COAT2 - SEM VALVULA-NORGREN;Applic Hot Melt Aplications;;;;1;;;FRANCO;;;30;6.390;1;4) Enviada para cliente;FOB
+54;;MAZZAFERRO;37;;S028;;TALES;;07/12/2018 00:00;25/10/2018 00:00;07/11/2018 00:00;07/11/2018 16:53;SERVIÇO DE REFORMA DE MANGUEIRAS;Applic Hot Melt Aplications;;;;1;;;FELIPE AMANCIO;;;10;820;1;5) Aceita pelo cliente;
+53;;DIGUINHO;36;;S028;;Tissiane;;07/12/2018 00:00;14/09/2018 00:00;07/11/2018 00:00;07/11/2018 16:03;SERVIÇO DE REFORMA DE MANGUEIRAS;Applic Hot Melt Aplications;;;;1;;;FELIPE AMANCIO;;;5;1.950;1;5) Aceita pelo cliente;
+52;;ACTIVE SENADOR CANEDO;35;;A3730PL45;;CLAUDIO DIAS;;05/12/2018 00:00;10/09/2018 00:00;05/11/2018 00:00;05/11/2018 09:49;MANGUEIRA TC-130-08 PN TC-130-8-PT100;Applic Hot Melt Aplications;;;;1;;;FRANCO;;;20;8.440;1;5) Aceita pelo cliente;
+51;;BABY ROGER;34;;A163PL32;;ROGERIO;;05/12/2018 00:00;16/10/2018 00:00;05/11/2018 00:00;05/11/2018 09:23;44,00 X 3,00 FKM NERO BLACK 70 +-5 BATCH NºA17/1187/004;Applic Hot Melt Aplications;;;;1;;;;;;3;9,3;10;5) Aceita pelo cliente;
+50;;KIMBERLY -CLARK BRASIL INDUSTRIA E COMERCIO DE PRODUTOS DE HIGIENE LTDA;33;;A2101PL45;;Cassia;;01/12/2018 00:00;02/08/2018 00:00;01/11/2018 00:00;01/11/2018 18:08;APLICADOR SPEED COAT-01;Applic Hot Melt Aplications;;;;1;;;;;;30;6.893;1;5) Aceita pelo cliente;
+49;;KIMBERLY -CLARK BRASIL INDUSTRIA E COMERCIO DE PRODUTOS DE HIGIENE LTDA;32;;S091;;Camila;;01/12/2018 00:00;02/08/2018 00:00;01/11/2018 00:00;01/11/2018 13:25;SERVIÇO DE AFIAÇÃO DE FERRAMENTAS;Applic Hot Melt Aplications;;;;1;;;;;;30;5.820;1;5) Aceita pelo cliente;
+48;;KIMBERLY -CLARK BRASIL INDUSTRIA E COMERCIO DE PRODUTOS DE HIGIENE LTDA;31;;A500PL32;;Camila;;01/12/2018 00:00;02/08/2018 00:00;01/11/2018 00:00;01/11/2018 12:03;"SHIMPLATE DO FLAP TACK #0,15MM
+BCM-M4200 126-01";Applic Hot Melt Aplications;;;;1;;;;;;30;312;2;5) Aceita pelo cliente;
+47;;KIMBERLY -CLARK BRASIL INDUSTRIA E COMERCIO DE PRODUTOS DE HIGIENE LTDA;30;;A4248PL45;;Camila;;30/11/2018 00:00;02/08/2018 00:00;31/10/2018 00:00;31/10/2018 17:09;KIT PNEUMATICO PARA A APLICACAO DE ADESIVO;Applic Hot Melt Aplications;;;;3;;;;;;30;5.926;1;5) Aceita pelo cliente;FOB
+46;;KIMBERLY -CLARK BRASIL INDUSTRIA E COMERCIO DE PRODUTOS DE HIGIENE LTDA;30;;A4249PL45;;Camila;;30/11/2018 00:00;02/08/2018 00:00;31/10/2018 00:00;31/10/2018 17:09;KIT DO ROLETE MONTADO;Applic Hot Melt Aplications;;;;2;;;;;;30;2.619,28;7;5) Aceita pelo cliente;FOB
+45;;KIMBERLY -CLARK BRASIL INDUSTRIA E COMERCIO DE PRODUTOS DE HIGIENE LTDA;30;;A4247PL45;;Camila;;30/11/2018 00:00;02/08/2018 00:00;31/10/2018 00:00;31/10/2018 17:09;KIT DE SUPORTE COM SISTEMA DE AJUSTE FINO PC;Applic Hot Melt Aplications;;;;1;;;;;;30;16.838;1;5) Aceita pelo cliente;FOB
+44;;MARDAM INDUSTRIA;29;;A199PL32;;Fablo Lopes;;30/11/2018 00:00;28/03/2018 00:00;31/10/2018 00:00;31/10/2018 16:25;KIT REPARO UM 22/25/50;Applic Hot Melt Aplications;;;;1;;;;;;2;472;5;5) Aceita pelo cliente;
+43;;MARDAM INDUSTRIA;28;;A4079PL45;;Fablo Lopes;;30/11/2018 00:00;28/03/2018 00:00;31/10/2018 00:00;31/10/2018 16:09;BICO SLOT TRUE COAT DO NW;Applic Hot Melt Aplications;;;;2;;;;;;30;7.689,20;1;5) Aceita pelo cliente;
+42;;MARDAM INDUSTRIA;28;;A4075PL45;;Fablo Lopes;;30/11/2018 00:00;28/03/2018 00:00;31/10/2018 00:00;31/10/2018 16:09;BICO SLOT TRUE COAT DO POLY;Applic Hot Melt Aplications;;;;1;;;;;;30;7.689,20;1;5) Aceita pelo cliente;
+41;;MARDAM INDUSTRIA;27;;A4084PL45;;Fablo Lopes;;30/11/2018 00:00;28/03/2018 00:00;31/10/2018 00:00;31/10/2018 15:33;BICO COM MODULO PARA SILICONADO  CONTATO DE 3 VIAS;Applic Hot Melt Aplications;;;;1;;;;;;30;3.553,20;1;5) Aceita pelo cliente;
+40;;ACTIVE SENADOR CANEDO;26;;A200PL32;;CLAUDIO DIAS;;30/11/2018 00:00;10/09/2018 00:00;31/10/2018 00:00;31/10/2018 15:20;KIT REPARO SC2 COMPLETO;Applic Hot Melt Aplications;;;;3;;;;;;30;1.767,36;2;5) Aceita pelo cliente;
+39;;ACTIVE SENADOR CANEDO;26;;A3027PL45;;CLAUDIO DIAS;;30/11/2018 00:00;10/09/2018 00:00;31/10/2018 00:00;31/10/2018 15:20;"TOOL, UNIV, FILTER REMOVAL PLUS, UA
+PN 1058544";Applic Hot Melt Aplications;;;;2;;;;;;30;1.290;1;5) Aceita pelo cliente;
+38;;ACTIVE SENADOR CANEDO;26;;A3846PL45;;CLAUDIO DIAS;;30/11/2018 00:00;10/09/2018 00:00;31/10/2018 00:00;31/10/2018 15:20;FILTRO 150 MALHA PN 106273;Applic Hot Melt Aplications;;;;1;;;;;;30;208;20;5) Aceita pelo cliente;
+37;;ACTIVE SENADOR CANEDO;25;;A4051PL45;;CLAUDIO DIAS;;30/11/2018 00:00;10/09/2018 00:00;31/10/2018 00:00;31/10/2018 15:05;KIT,SVCE,MAIN,PCA,IP54 & IP32;Applic Hot Melt Aplications;;;;1;;;;;;30;5.732;1;5) Aceita pelo cliente;
+36;;KIMBERLY -CLARK BRASIL INDUSTRIA E COMERCIO DE PRODUTOS DE HIGIENE LTDA;24;;A4127PL45;;Camila;;30/11/2018 00:00;02/08/2018 00:00;31/10/2018 00:00;31/10/2018 14:37;BICO SLOT DO AQL DE 70mm;Applic Hot Melt Aplications;;;;1;;;;;;30;2.890,01;1;5) Aceita pelo cliente;
+35;;KC CAMAÇARI;23;;A4033PL45;;Jackson;;30/11/2018 00:00;14/09/2018 00:00;31/10/2018 00:00;31/10/2018 12:25;APLICADOR SPEED COAT 70 MM;Applic Hot Melt Aplications;;;;2;;;;;;30;20.085,52;1;5) Aceita pelo cliente;FOB
+34;;KC CAMAÇARI;23;;A4033PL45;;Jackson;;30/11/2018 00:00;14/09/2018 00:00;31/10/2018 00:00;31/10/2018 12:25;APLICADOR SPEED COAT 70 MM;Applic Hot Melt Aplications;;;;1;;;;;;30;14.956,45;2;5) Aceita pelo cliente;FOB
+33;;SOFAPE FABRICANTES DE FILTROS LTDA;22;;A518PL32;;Leonardo;;30/11/2018 00:00;12/04/2018 00:00;31/10/2018 00:00;31/10/2018 11:04;FILTRO VB COMPLETO;Applic Hot Melt Aplications;;;;1;;;;;;30;2.100;1;5) Aceita pelo cliente;
+32;;ACTIVE SENADOR CANEDO;21;;A1077PL45;;CLAUDIO DIAS;;30/11/2018 00:00;10/09/2018 00:00;31/10/2018 00:00;31/10/2018 10:35;MÓDULO SPEED COAT2 - SEM VALVULA-NORGREN;Applic Hot Melt Aplications;;;;1;;;;;;30;6.198,30;1;5) Aceita pelo cliente;
+29;;KIMBERLY -CLARK BRASIL INDUSTRIA E COMERCIO DE PRODUTOS DE HIGIENE LTDA;19;;SERV.2000;;Cassia;;25/11/2018 00:00;02/08/2018 00:00;26/10/2018 00:00;26/10/2018 12:54;MANUTENCAO EM EQUIPAMENTOS ESPECIAIS;Applic Hot Melt Aplications;;;;1;;;;;"Revisão completa:
+- Troca do platinado do Motor
+- Troca do fim de curso do motor
+- Revisão total no Motor
+- Ajustes nas Carenagens
+- Substituição da faca |( a atual não é possível fazer afiação)";7;5.820;1;5) Aceita pelo cliente;
+28;;ACTIVE SENADOR CANEDO;18;;A200PL32;;CLAUDIO DIAS;;25/11/2018 00:00;10/09/2018 00:00;26/10/2018 00:00;26/10/2018 11:35;KIT REPARO SC2 COMPLETO;Applic Hot Melt Aplications;;;;3;;;;;;30;1.858,07;2;5) Aceita pelo cliente;FOB
+27;;ACTIVE SENADOR CANEDO;18;;A4233PL45;;CLAUDIO DIAS;;25/11/2018 00:00;10/09/2018 00:00;26/10/2018 00:00;26/10/2018 11:35;"TAMPAO ROSC. COM O-RING 5/16""";Applic Hot Melt Aplications;;;;2;;;;;;30;36,32;4;5) Aceita pelo cliente;FOB
+26;;ACTIVE SENADOR CANEDO;18;;A4232PL53;;CLAUDIO DIAS;;25/11/2018 00:00;10/09/2018 00:00;26/10/2018 00:00;26/10/2018 11:35;BOMBA DUPLA DN0030 PU2-2M1;Applic Hot Melt Aplications;;;;1;;;;;;30;11.393,14;1;5) Aceita pelo cliente;FOB
+25;;MAZZAFERRO;17;;S028;;TALES;;24/11/2018 00:00;25/10/2018 00:00;25/10/2018 00:00;25/10/2018 14:57;SERVIÇO DE REFORMA DE MANGUEIRAS;Applic Hot Melt Aplications;;;;2;;;;;Trocar o cabo e reforçar estrutura da mangueira próximo à saída de adesivo;10;820;1;5) Aceita pelo cliente;
+24;;SOFAPE FABRICANTES DE FILTROS LTDA;16;SC 00006;SERV.0002;;Sergio;;24/11/2018 00:00;12/04/2018 00:00;25/10/2018 00:00;25/10/2018 12:31;SERVIÇO LIMPEZA DE FILTRO;Applic Hot Melt Aplications;;;;1;1;;;;;30;1.500;1;5) Aceita pelo cliente;FOB
+23;;SANTHER;15;SC 00005;A855PL20;;Edvaldo;;24/11/2018 00:00;14/09/2018 00:00;25/10/2018 00:00;25/10/2018 11:39;BICO SUMMIT FULL-INOX 22MM;Applic Hot Melt Aplications;;;;1;1;;;;;30;1.533;5;5) Aceita pelo cliente;
+22;;AERORACK EQUIPAMENTOS INDUSTRIAIS LTDA;14;SC 00004;S084;;JESSICA;;23/11/2018 00:00;10/08/2018 00:00;24/10/2018 00:00;24/10/2018 18:56;SERVIÇO DE USINAGEM;Applic Hot Melt Aplications;;;;3;3;;;;;2;30,1;2;5) Aceita pelo cliente;FOB
+21;;AERORACK EQUIPAMENTOS INDUSTRIAIS LTDA;14;SC 00004;S084;;JESSICA;;23/11/2018 00:00;10/08/2018 00:00;24/10/2018 00:00;24/10/2018 18:56;SERVIÇO DE USINAGEM;Applic Hot Melt Aplications;;;;2;2;;;;;2;30,1;9;5) Aceita pelo cliente;FOB
+20;;AERORACK EQUIPAMENTOS INDUSTRIAIS LTDA;14;SC 00004;S084;;JESSICA;;23/11/2018 00:00;10/08/2018 00:00;24/10/2018 00:00;24/10/2018 18:56;SERVIÇO DE USINAGEM;Applic Hot Melt Aplications;;;;1;1;;;;;2;30,1;4;5) Aceita pelo cliente;FOB
+19;;KC CAMAÇARI;13;;S028;;Jackson;;22/11/2018 00:00;14/09/2018 00:00;23/10/2018 00:00;;SERVIÇO DE REFORMA DE MANGUEIRAS;Applic Hot Melt Aplications;;;;2;;;;;;15;1.430;1;3) Liberada aguardando envio;
+18;;KC CAMAÇARI;13;;S028;;Jackson;;22/11/2018 00:00;14/09/2018 00:00;23/10/2018 00:00;;SERVIÇO DE REFORMA DE MANGUEIRAS;Applic Hot Melt Aplications;;;;1;;;;;;15;880;1;3) Liberada aguardando envio;
+15;;KC CAMAÇARI;11;;S028;;Jackson;;22/11/2018 00:00;14/09/2018 00:00;23/10/2018 00:00;23/10/2018 15:11;SERVIÇO DE REFORMA DE MANGUEIRAS;Applic Hot Melt Aplications;;;;2;;;;Reforma de Mangueiras;;15;1.430;1;4) Enviada para cliente;
+14;;KC CAMAÇARI;11;;S028;;Jackson;;22/11/2018 00:00;14/09/2018 00:00;23/10/2018 00:00;23/10/2018 15:11;SERVIÇO DE REFORMA DE MANGUEIRAS;Applic Hot Melt Aplications;;;;1;;;;Reforma de Mangueiras;;15;880;1;4) Enviada para cliente;
+13;;CMPC;10;SC 00002;A2824PL45;;Andre;;21/11/2018 00:00;14/09/2018 00:00;22/10/2018 00:00;23/10/2018 12:52;BICO SUMMIT FULL-INOX 25MM;Applic Hot Melt Aplications;;;;1;1;;;;;20;1.540;1;5) Aceita pelo cliente;FOB
+12;;ACTIVE SENADOR CANEDO;9;SC 00001;A200PL32;;CLAUDIO DIAS;;16/11/2018 00:00;10/09/2018 00:00;17/10/2018 00:00;17/10/2018 16:47;KIT REPARO SC2 COMPLETO;Applic Hot Melt Aplications;;;;2;2;;;;;30;0;10;4) Enviada para cliente;
+11;;ACTIVE SENADOR CANEDO;9;SC 00001;A159PL32;;CLAUDIO DIAS;;16/11/2018 00:00;10/09/2018 00:00;17/10/2018 00:00;17/10/2018 16:47;14,80 X 1 FKM NERO BLACK 60 +-5 BATCH NºA17/1187/001;Applic Hot Melt Aplications;;;;1;1;;;;;10;0;50;4) Enviada para cliente;
+10;;CMPC;8;;A199PL32;;;;16/11/2018 00:00;14/09/2018 00:00;17/10/2018 00:00;17/10/2018 16:44;KIT REPARO UM 22/25/50;Applic Hot Melt Aplications;;;;2;;;;;;30;10;5;4) Enviada para cliente;
+9;;CMPC;8;;A95PL29;;;;16/11/2018 00:00;14/09/2018 00:00;17/10/2018 00:00;17/10/2018 16:44;BICO SUMMIT FULL-NIQUELADO 25MM;Applic Hot Melt Aplications;;;;1;;;;;;30;100;5;4) Enviada para cliente;
+8;;KIMBERLY -CLARK BRASIL INDUSTRIA E COMERCIO DE PRODUTOS DE HIGIENE LTDA;7;;A160PL32;;;;24/10/2018 00:00;02/08/2018 00:00;24/09/2018 00:00;24/09/2018 20:04;ORING BICO CF;Applic Hot Melt Aplications;;;;1;;;;;;3;11,86;50;5) Aceita pelo cliente;FOB
+7;;KIMBERLY -CLARK BRASIL INDUSTRIA E COMERCIO DE PRODUTOS DE HIGIENE LTDA;6;;A138PL32;;Camila;;24/10/2018 00:00;02/08/2018 00:00;24/09/2018 00:00;23/10/2018 16:22;ANEL O´RING VITON 48X2MM;Applic Hot Melt Aplications;;;;1;;;;;anel vitom exemplo;30;12,39;100;3) Liberada aguardando envio;FOB
+6;;ACTIVE SENADOR CANEDO;5;;A3979PL45;;CLAUDIO DIAS;;12/10/2018 00:00;10/09/2018 00:00;12/09/2018 00:00;12/09/2018 16:29;CONECTOR FEMEA;Applic Hot Melt Aplications;;;;1;;;;;;30;250;1;5) Aceita pelo cliente;FOB
+5;;ACTIVE SENADOR CANEDO;4;SC 00001;A200PL32;;CLAUDIO DIAS;;10/10/2018 00:00;10/09/2018 00:00;10/09/2018 00:00;10/09/2018 17:24;KIT REPARO SC2 COMPLETO;Applic Hot Melt Aplications;;;;2;2;;;;;30;1.500;10;5) Aceita pelo cliente;FOB
+4;;ACTIVE SENADOR CANEDO;4;SC 00001;A159PL32;;CLAUDIO DIAS;;10/10/2018 00:00;10/09/2018 00:00;10/09/2018 00:00;10/09/2018 17:24;14,80 X 1 FKM NERO BLACK 60 +-5 BATCH NºA17/1187/001;Applic Hot Melt Aplications;;;;1;1;;;;;10;13,5;50;5) Aceita pelo cliente;FOB
+3;;MARDAM INDUSTRIA;3;;KT - 0001;;Fablo Lopes;;30/09/2018 00:00;28/03/2018 00:00;31/08/2018 00:00;;KIT UM25;Applic Hot Melt Aplications;;;;1;;;;;;3;512;10;3) Liberada aguardando envio;FOB
+2;;Pessoa teste;2;;A3612PL45;;Analista;;09/06/2018 00:00;27/11/2017 00:00;10/05/2018 00:00;10/05/2018 16:37;SUPORTE DE ELASTICO BRACKET Z5;Applic Hot Melt Aplications;;;;1;;;;;;30;300,5;2;5) Aceita pelo cliente;FOB
+1;;MARDAM INDUSTRIA;1;;A519PL32;;Contato Teste;;04/05/2018 00:00;28/03/2018 00:00;04/04/2018 00:00;04/04/2018 11:47;MOLA DO CAP;Applic Hot Melt Aplications;;;;1;;;;;;20;30;50;4) Enviada para cliente;FOB
+293;;TESTE;1;SC  00002;A5545454;;TESTE;;04/05/2018 00:00;28/03/2018 00:00;04/04/2018 00:00;04/04/2018 11:47;TESTE;Applic Hot Melt Aplications;;;;4;1;;;;;55;400;55;4) Enviada para cliente;FOB
